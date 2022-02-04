@@ -1,11 +1,8 @@
-
 library(dplyr)
 library(rvest)
 library(stringi)
 library(stringr)
-link = 'https://ipiwo.pl/sklep/'
-?rvest
-closeAllConnections()
+
 get_desc = function(beer_link){
   beer_page = read_html(beer_link)
   beer_desc = beer_page |>
@@ -15,6 +12,7 @@ get_desc = function(beer_link){
   beer_desc
 return (beer_desc)  
 } #function for geting description of product from given link
+
 get_alc = function(beer_link){
   beer_page = read_html(beer_link)
   beer_details = beer_page |>
@@ -23,22 +21,23 @@ get_alc = function(beer_link){
   beer_details = as.data.frame(beer_details)
   beer_alc = beer_details$X2[beer_details$X1 == "Alkohol (%)"]
   return(beer_alc)
-} #gets info abaout alcohol contribution 
-get_exctract = function(beer_link){
+} #gets info abaout alcohol contribution
 
+get_extract = function(beer_link){
   beer_page = read_html(beer_link)
   beer_details = beer_page |>
     html_nodes('#tab-additional_information') |>
     html_table()
   beer_details = as.data.frame(beer_details)
-  beer_exctract = beer_details$X2[beer_details$X1 == "Ekstrakt"]
+  beer_extract = beer_details$X2[beer_details$X1 == "Ekstrakt"]
   beer_details
   if (length(beer_exctract) == 0){
     return(NA)
   } else {
-    return(beer_exctract)
-  }
-} #gets info about exctract contribution
+    return(beer_extract)
+    }
+} #gets info about extract contribution
+
 get_type = function(beer_link){
   beer_page = read_html(beer_link)
   beer_details = beer_page |>
@@ -47,7 +46,8 @@ get_type = function(beer_link){
   beer_details = as.data.frame(beer_details)
   beer_type = beer_details$X2[beer_details$X1 == "Rodzaj piwa"]
   return(beer_type)
-} #gest info about beer type
+} #gets info about beer type
+
 get_price = function(beer_link){
   beer_page = read_html(beer_link)
   beer_price = beer_page |>
@@ -56,12 +56,12 @@ get_price = function(beer_link){
 beer_price =str_remove(beer_price[2], "zł") #remove "zł" from each price
 beer_price = as.numeric(stri_trim_right(str_replace(beer_price, ",", "."))) # replace all "," to "." (so this is posible to convert to numeric) and trim whitespaces
 return(beer_price) 
-}
+} # gets info about price of the product
 
 
-# Get name, link for product and brewery from website (shop - pages from 1 to 2 )
+# Get name, link for product and brewery from website (for test it should download data from first two pages)
 set = data.frame()
-for(page_result in seq(from = 1, to = 10, by =1)){ #loop for given number of pages - loop exctracts informations from pages
+for(page_result in seq(from = 1, to = 2, by =1)){ #loop for given number of pages - loop exctracts informations from pages
   link = paste0("https://ipiwo.pl/sklep/page/", page_result, "/") #create link to the given page number
 page = read_html(link)
 
@@ -101,12 +101,12 @@ rm(beer_link, brewery, link, name, page_result, page)
 # becouse sctructure of details table is a bit diffrent - to hande this problem you need to manually change "i" for the next observation and omit
 # observation causing problem
 # this vector below contains indexes of all observations that caused zero length change error
-# when downloading data you can create if statement to check if numer of iteration is in vector with problematic observations
+# when downloading data you can create if statement to check if number of iteration is in vector with problematic observations
 # and if so, just omit those obserwations
 
 indexes_to_omit = c(165,166,226:233, 495, 496,572:576, 576, 849, 850, 869, 879)
 
-# this is possible to fully automate this process by implementing try/cach statements, but for now it is what it is...
+# It is possible to fully automate this process by implementing try/cach statements, but for now it is what it is...
 
 
 i = 1
@@ -119,8 +119,8 @@ closeAllConnections()
 
 i = 1
 for (i in i:nrow(set)){
-  set$exctract[i] = get_exctract(set$beer_link[i])
-  print(paste(i, set$beer_link[i], set$exctract[i]))
+  set$extract[i] = get_extract(set$beer_link[i])
+  print(paste(i, set$beer_link[i], set$extract[i]))
   i = i + 1
   }
 closeAllConnections()
@@ -133,7 +133,7 @@ for (i in i:nrow(set)){
   }
 closeAllConnections()
 
-i =1
+i = 1
 for (i in i:nrow(set)){
   set$desc[i] = get_desc(set$beer_link[i])
   print(paste(i, set$beer_link[i]))
@@ -141,16 +141,13 @@ for (i in i:nrow(set)){
   }
 closeAllConnections()
 
-
-i =1
+i = 1
 for (i in i:nrow(set)){
   set$price[i] = get_price(set$beer_link[i])
   print(paste(i, set$beer_link[i], set$price[i]))
   i = i + 1
   }
 closeAllConnections()
-
-
 
 View(set)
 write.csv2(set, file='beers.csv')
