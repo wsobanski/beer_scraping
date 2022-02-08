@@ -1,23 +1,23 @@
 "";"name";"brewery";"beer_type";"alc";"blg";"fermentation";"price"
 "1";"AleBrowar Be Like Mitch- But. 0,5l";"alebrowar";"pszeniczne";4,4;11,6;"top";8,99
-"2";"AleBrowar Boris is Boris ñ But. 0,5l";"alebrowar";"stout";10;30;"top";19,99
+"2";"AleBrowar Boris is Boris ‚Äì But. 0,5l";"alebrowar";"stout";10;30;"top";19,99
 "3";"AleBrowar Chill Guru Terpenes 0,5l";"alebrowar";"ipa";4,2;14;"top";12,99
 "4";"AleBrowar Crazy Mike- But. 0,5l";"alebrowar";"ipa";8;20;"top";10,79
-"5";"AleBrowar Hey Alexei ñ But. 0,5l";"alebrowar";"stout";10;30;"top";22,99
+"5";"AleBrowar Hey Alexei ‚Äì But. 0,5l";"alebrowar";"stout";10;30;"top";22,99
 "6";"AleBrowar Imperial Smoky Joe 0,33l puszka";"alebrowar";"stout";9;24;"top";11,99
 "7";"AleBrowar King of Hop- But. 0,5l";"alebrowar";"ale";5;12;"top";8,49
 "8";"AleBrowar Lady Blanche- But. 0,5l";"alebrowar";"pszeniczne";4,5;12;"top";7,29
-"9";"AleBrowar Letís Surf ñ But. 0,5l";"alebrowar";"ale";2,8;9;"top";8,99
-"10";"AleBrowar Mash Face ñ But. 0,5l";"alebrowar";"ipa";3,6;16;"top";11,49
+"9";"AleBrowar Let‚Äôs Surf ‚Äì But. 0,5l";"alebrowar";"ale";2,8;9;"top";8,99
+"10";"AleBrowar Mash Face ‚Äì But. 0,5l";"alebrowar";"ipa";3,6;16;"top";11,49
 "11";"AleBrowar Mela Mela- But. 0,5l";"alebrowar";"ale";4,1;12;"top";10,49
 "12";"AleBrowar Naked Mummy- But. 0,5l";"alebrowar";"ale";6,2;16;"top";9,59
 "13";"AleBrowar Rowing Jack 0,5l";"alebrowar";"ipa";6,2;16;"top";9,59
-"14";"AleBrowar Saint No More ñ But. 0,5l";"alebrowar";"stout";6,2;16;"top";29,99
+"14";"AleBrowar Saint No More ‚Äì But. 0,5l";"alebrowar";"stout";6,2;16;"top";29,99
 "15";"AleBrowar Saint No More Simcoe 0,5l";"alebrowar";"ipa";6,2;16;"top";9,69
-"16";"AleBrowar Spicy Mummy ñ But. 0,5l";"alebrowar";"ale";4,2;16;"top";11,49
+"16";"AleBrowar Spicy Mummy ‚Äì But. 0,5l";"alebrowar";"ale";4,2;16;"top";11,49
 "17";"AleBrowar Sweet Cow Churros 0,5l";"alebrowar";"stout";6,5;24;"top";14,99
 "18";"AleBrowar Sweet Cow Raspberry 0,5l";"alebrowar";"stout";6,5;24;"top";14,99
-"19";"AleBrowar Vlad is Glad ñ But. 0,5l";"alebrowar";"stout";10;30;"top";22,99
+"19";"AleBrowar Vlad is Glad ‚Äì But. 0,5l";"alebrowar";"stout";10;30;"top";22,99
 "20";"AleBrowar World of IPA Brut 0,5l";"alebrowar";"ipa";7,7;16;"top";12,99
 "21";"AleBrowar World of IPA East Coast 0,5l";"alebrowar";"ipa";6,6;18;"top";12,99
 "22";"AleBrowar World of IPA Hazy West Coast Pacific";"alebrowar";"ipa";5,5;16;"top";12,99
@@ -26,104 +26,104 @@
 "25";"AleBrowar World of IPA RPA 0,5l puszka";"alebrowar";"ipa";4,6;14;"top";12,99
 "26";"AleBrowar World of IPA Vermont 0,5l puszka";"alebrowar";"ipa";4,6;14;"top";13
 "27";"Amber APA- American Pale Ale-  0,5l";"amber";"apa";5,2;12,1;"top";6,49
-"28";"Amber India Pale Ale†500 ml ñ puszka";"amber";"ipa";5,8;14,5;"top";7,49
-"29";"Amber Pszeniczniak ñ But. 0,5l";"amber";"pszeniczne";5,2;12,1;"top";6,49
-"30";"Artezan Zegarki B≥onie ñ But. 0,5l";"artezan";"pils";5;12;"bottom";9,99
-"31";"Bestbir Ananasowyñ But. 0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
-"32";"Bestbir Cytryna- ñ But. 0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
-"33";"Bestbir Czekolada z†PomaraÒczπ-But. 0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
-"34";"Bestbir Dzika RÛøa- But. 0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
-"35";"Bestbir Gruszka z†Melisπ-But. 0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
-"36";"Bestbir Imbir z†Miodem- But. 0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
-"37";"Bestbir Kokosowyñ But. 0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
-"38";"Bestbir Letnia åliwka- But.0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
+"28";"Amber India Pale Ale¬†500 ml ‚Äì puszka";"amber";"ipa";5,8;14,5;"top";7,49
+"29";"Amber Pszeniczniak ‚Äì But. 0,5l";"amber";"pszeniczne";5,2;12,1;"top";6,49
+"30";"Artezan Zegarki B≈Çonie ‚Äì But. 0,5l";"artezan";"pils";5;12;"bottom";9,99
+"31";"Bestbir Ananasowy‚Äì But. 0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
+"32";"Bestbir Cytryna- ‚Äì But. 0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
+"33";"Bestbir Czekolada z¬†Pomara≈ÑczƒÖ-But. 0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
+"34";"Bestbir Dzika R√≥≈ºa- But. 0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
+"35";"Bestbir Gruszka z¬†MelisƒÖ-But. 0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
+"36";"Bestbir Imbir z¬†Miodem- But. 0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
+"37";"Bestbir Kokosowy‚Äì But. 0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
+"38";"Bestbir Letnia ≈öliwka- But.0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
 "39";"Bestbir Malina Pigwa- But. 0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
-"40";"Bestbir MÍski lager ñ But. 0,5l";"staropolski";"lager";6,1;12;"bottom";5,49
-"41";"Bestbir MiÛd Cytryna- But .0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
+"40";"Bestbir Mƒôski lager ‚Äì But. 0,5l";"staropolski";"lager";6,1;12;"bottom";5,49
+"41";"Bestbir Mi√≥d Cytryna- But .0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
 "42";"Bestbir Pacific Brzoskwinia- But. 0,5l";"staropolski";"lager";4,7;11;"bottom";5,89
 "43";"Bestbir Pacific Mango Ananas-But. 0,5l";"staropolski";"pszeniczne";4,7;11;"top";5,89
-"44";"Bestbir Pieczone Jab≥ko-But.0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
+"44";"Bestbir Pieczone Jab≈Çko-But.0,5l";"staropolski";"lager";4,7;10;"bottom";5,89
 "45";"Bestbir PUSZKA Malina & Pigwa-0,5l puszka";"staropolski";"lager";4,7;10;"bottom";5,49
 "46";"Birbant 7 Bridges 0,5l puszka";"birbant";"ipa";8,1;21;"top";16,69
 "47";"Birbant 7 Dreams 0,5l puszka";"birbant";"ipa";7,4;19;"top";14,49
-"48";"Birbant 7 Heaven ñ 0,5l puszka";"birbant";"ipa";6;16,5;"top";13,49
+"48";"Birbant 7 Heaven ‚Äì 0,5l puszka";"birbant";"ipa";6;16,5;"top";13,49
 "49";"Birbant 7:24 330 ml puszka";"birbant";"stout";10,5;24;"top";17,99
-"50";"Birbant 777 ó 500 ml puszka";"alebrowar";"ipa";8,7;21;"top";32,39
+"50";"Birbant 777 ‚Äî 500 ml puszka";"alebrowar";"ipa";8,7;21;"top";32,39
 "51";"Birbant APA Klasyczna- But. 0,5l";"birbant";"apa";5,1;12;"top";7,98
-"52";"Birbant Itís Even More Peaty 0,33l puszka";"birbant";"stout";10,9;30;"top";32,39
-"53";"Birbant Kiribati ñ 0,5l puszka";"birbant";"ipa";6,7;16,5;"top";13,49
+"52";"Birbant It‚Äôs Even More Peaty 0,33l puszka";"birbant";"stout";10,9;30;"top";32,39
+"53";"Birbant Kiribati ‚Äì 0,5l puszka";"birbant";"ipa";6,7;16,5;"top";13,49
 "54";"Birbant Kiss the Beast 0,5l puszka";"birbant";"ipa";8,5;19,1;"top";13,49
-"55";"Birbant Limbo ñ 0,5l puszka";"birbant";"ipa";7,8;19;"top";14,49
+"55";"Birbant Limbo ‚Äì 0,5l puszka";"birbant";"ipa";7,8;19;"top";14,49
 "56";"Birbant Mango Weizen 0,5l";"birbant";"pszeniczne";5,2;12;"top";6,19
 "57";"Birbant Oblivion 0,5l puszka";"birbant";"ipa";7,9;19;"top";14,99
-"58";"Birbant Pianka ñ 500 ml puszka";"birbant";"ipa";5,2;14;"top";14,49
+"58";"Birbant Pianka ‚Äì 500 ml puszka";"birbant";"ipa";5,2;14;"top";14,49
 "59";"Birbant Revolta 0,5l puszka";"birbant";"ipa";8,3;21;"top";16,69
 "60";"Birbant Saga  Session IPA 0,5l puszka";"birbant";"ipa";5,7;14;"top";14,49
-"61";"Birbant Scuby ñ IPA ñ 0,5l puszka";"birbant";"ipa";8,5;19;"top";13,49
+"61";"Birbant Scuby ‚Äì IPA ‚Äì 0,5l puszka";"birbant";"ipa";8,5;19;"top";13,49
 "62";"Birbant Starfish 0,5l puszka";"birbant";"ipa";7,2;19,1;"top";13,49
 "63";"Birbant The Seventh Seal 0,5l puszka";"birbant";"ipa";6,7;19;"top";14,49
 "64";"Birbant Tiamat 0,33l puszka";"birbant";"stout";10,5;24;"top";16,99
-"65";"Birbant Topaz ñ 0,5l puszka";"birbant";"ipa";8,5;19;"top";14,69
+"65";"Birbant Topaz ‚Äì 0,5l puszka";"birbant";"ipa";8,5;19;"top";14,69
 "66";"Birbant Toyboy 0,5l puszka";"birbant";"ipa";5,2;14;"top";12,69
-"67";"Birbant Wulver ñ 0,33l puszka";"birbant";"stout";10,5;24;"top";17,99
+"67";"Birbant Wulver ‚Äì 0,33l puszka";"birbant";"stout";10,5;24;"top";17,99
 "68";"Birbant Yummy Session IPA 0,5l";"birbant";"ipa";5,7;14;"top";9,79
 "69";"Brokreacja All Beers Matter Belgian Blond Ale";"brokreacja";"ale";6,8;16;"top";10,69
 "70";"Brokreacja Another One, Please! Fruit Hefeweizen";"brokreacja";"pszeniczne";4;10;"top";9,59
 "71";"Brokreacja Ardeal 0,5l puszka";"brokreacja";"ipa";6;15;"top";14,49
-"72";"Brokreacja Buried Alive ñ but. 0,33l";"brokreacja";"stout";11;28;"top";22,99
-"73";"Brokreacja Candy Crone ñ But. 0,5l";"brokreacja";"stout";10,5;32;"top";23,99
+"72";"Brokreacja Buried Alive ‚Äì but. 0,33l";"brokreacja";"stout";11;28;"top";22,99
+"73";"Brokreacja Candy Crone ‚Äì But. 0,5l";"brokreacja";"stout";10,5;32;"top";23,99
 "74";"Brokreacja Fate 0,5l puszka";"brokreacja";"ale";5,6;18;"top";13,99
-"75";"Brokreacja Kind Sir ñ 0,5l puszka";"brokreacja";"ipa";6,3;15;"top";14,49
+"75";"Brokreacja Kind Sir ‚Äì 0,5l puszka";"brokreacja";"ipa";6,3;15;"top";14,49
 "76";"Brokreacja Ludzie trzymajcie kapelusze BBA";"brokreacja";"stout";10,1;28;"top";27,99
-"77";"Brokreacja Lyra ñ 0,5l puszka";"brokreacja";"ale";5,8;19;"top";14,49
-"78";"Brokreacja Maiden ñ 0,5l puszka";"brokreacja";"ipa";7,5;16;"top";14,49
-"79";"Brokreacja Not Alone ñ But. 0,33l";"brokreacja";"ale";8,9;24;"top";18,49
+"77";"Brokreacja Lyra ‚Äì 0,5l puszka";"brokreacja";"ale";5,8;19;"top";14,49
+"78";"Brokreacja Maiden ‚Äì 0,5l puszka";"brokreacja";"ipa";7,5;16;"top";14,49
+"79";"Brokreacja Not Alone ‚Äì But. 0,33l";"brokreacja";"ale";8,9;24;"top";18,49
 "80";"Brokreacja Paris Syndrome Bourbon BA";"brokreacja";"stout";10;32;"top";27,99
-"81";"Brokreacja Savage 001 Cherry Wild Ale†0,5l";"brokreacja";"ale";7,7;16;"top";54,99
-"82";"Brokreacja Savage 003 Blackcurrant Wild Ale†0,5l";"brokreacja";"ale";6,5;16;"top";54,99
-"83";"Brokreacja Savage 004 Flander Red Ale†0,5l";"brokreacja";"ale";8;16;"top";54,99
+"81";"Brokreacja Savage 001 Cherry Wild Ale¬†0,5l";"brokreacja";"ale";7,7;16;"top";54,99
+"82";"Brokreacja Savage 003 Blackcurrant Wild Ale¬†0,5l";"brokreacja";"ale";6,5;16;"top";54,99
+"83";"Brokreacja Savage 004 Flander Red Ale¬†0,5l";"brokreacja";"ale";8;16;"top";54,99
 "84";"Brokreacja Sun of Peru 0,5l";"brokreacja";"ipa";6;14;"top";12,69
-"85";"Brokreacja The Actor ñ But. 0,5l";"brokreacja";"ale";5,5;12;"top";7,98
+"85";"Brokreacja The Actor ‚Äì But. 0,5l";"brokreacja";"ale";5,5;12;"top";7,98
 "86";"Brokreacja The Alchemist 0,5l puszka";"brokreacja";"ipa";6,4;16;"top";10,98
 "87";"Brokreacja The Butcher 0,5l puszka";"brokreacja";"ipa";7;16;"top";10,98
-"88";"Brokreacja The Dealer ñ But. 0,5l";"brokreacja";"apa";4,7;12;"top";8,99
+"88";"Brokreacja The Dealer ‚Äì But. 0,5l";"brokreacja";"apa";4,7;12;"top";8,99
 "89";"Brokreacja The Teacher 0,5l";"brokreacja";"pils";4,8;12;"bottom";8,99
-"90";"Brokreacja The Waiter ñ But. 0,5l";"brokreacja";"stout";5,2;16;"top";9,99
+"90";"Brokreacja The Waiter ‚Äì But. 0,5l";"brokreacja";"stout";5,2;16;"top";9,99
 "91";"Browar Cieszyn Lager butelka 0,5l";"cieszyn";"lager";5;11,5;"bottom";6,99
 "92";"Browar Cieszyn Mastne 0,5l";"cieszyn";"ale";5,8;13;"top";8,49
 "93";"Browar Cieszyn Pszeniczne 0,5l";"cieszyn";"pszeniczne";5,4;12,5;"top";8,49
-"94";"Browar Cieszyn Stout ñ But. 500 ml";"cieszyn";"stout";6,2;14;"top";9,99
-"95";"Browar Jako Z≥oty £an IPA-But. 0,5l";"browar jako";"ipa";6,5;15,5;"top";5,49
-"96";"Browar Zak≥adowy Kolektyw 0,5l";"browar zak≥adowy";"ipa";9;21;"top";14,99
-"97";"Browar Zak≥adowy Piwo typu IPA 0,5l";"browar zak≥adowy";"ipa";7,4;18;"top";12,69
-"98";"Browar Zak≥adowy Wycieczka do†Australii";"browar zak≥adowy";"ipa";6,1;14;"top";11,39
-"99";"Browar Zak≥adowy Zabawa 0,5l";"browar zak≥adowy";"ipa";5,9;14;"top";11,69
-"100";"Browarny One More Time ñ But. 0,5l";"browarny";"ipa";7,2;18;"top";13,49
-"101";"Buh Ale†ñ Uwolnij Buha ñ butelka 500 ml";"tenczynek";"ale";5;11,5;"top";8,99
-"102";"BytÛw Czarna porzeczka- But. 0,5l";"bytÛw";"lager";4,9;11;"bottom";6,99
-"103";"BytÛw Smaki Truskawkowe- But. 0,5l";"bytÛw";"lager";5,5;12,5;"bottom";6,49
-"104";"BytÛw Upalony Walo- But. 0,5l";"bytÛw";"lager";4,9;11;"bottom";6,49
-"105";"Cieszyn Ice Tea IPA ñ But. 0,5l";"cieszyn";"ipa";7,2;16;"top";11,99
-"106";"Cieszyn Noszak ñ butelka 0,5l";"cieszyn";"lager";5,5;12;"bottom";6,99
-"107";"Cornelius Hazy APA ñ But. 0,5l";"cornelius";"apa";5;12,5;"top";5,49
+"94";"Browar Cieszyn Stout ‚Äì But. 500 ml";"cieszyn";"stout";6,2;14;"top";9,99
+"95";"Browar Jako Z≈Çoty ≈Åan IPA-But. 0,5l";"browar jako";"ipa";6,5;15,5;"top";5,49
+"96";"Browar Zak≈Çadowy Kolektyw 0,5l";"browar zak≈Çadowy";"ipa";9;21;"top";14,99
+"97";"Browar Zak≈Çadowy Piwo typu IPA 0,5l";"browar zak≈Çadowy";"ipa";7,4;18;"top";12,69
+"98";"Browar Zak≈Çadowy Wycieczka do¬†Australii";"browar zak≈Çadowy";"ipa";6,1;14;"top";11,39
+"99";"Browar Zak≈Çadowy Zabawa 0,5l";"browar zak≈Çadowy";"ipa";5,9;14;"top";11,69
+"100";"Browarny One More Time ‚Äì But. 0,5l";"browarny";"ipa";7,2;18;"top";13,49
+"101";"Buh Ale¬†‚Äì Uwolnij Buha ‚Äì butelka 500 ml";"tenczynek";"ale";5;11,5;"top";8,99
+"102";"Byt√≥w Czarna porzeczka- But. 0,5l";"byt√≥w";"lager";4,9;11;"bottom";6,99
+"103";"Byt√≥w Smaki Truskawkowe- But. 0,5l";"byt√≥w";"lager";5,5;12,5;"bottom";6,49
+"104";"Byt√≥w Upalony Walo- But. 0,5l";"byt√≥w";"lager";4,9;11;"bottom";6,49
+"105";"Cieszyn Ice Tea IPA ‚Äì But. 0,5l";"cieszyn";"ipa";7,2;16;"top";11,99
+"106";"Cieszyn Noszak ‚Äì butelka 0,5l";"cieszyn";"lager";5,5;12;"bottom";6,99
+"107";"Cornelius Hazy APA ‚Äì But. 0,5l";"cornelius";"apa";5;12,5;"top";5,49
 "108";"Cornelius Hazy IPA- But. 0,5l";"cornelius";"ipa";6,5;15,5;"top";5,49
 "109";"Cornelius Hazy Lager- But. 0,5l";"cornelius";"lager";4,5;12;"bottom";3,99
 "110";"Czarna Owca Ciemny Typ 0.5l";"czarna owca";"stout";5,5;14;"top";9,99
-"111";"Czarna Owca Leøak Kociewski ñ But. 0,5l";"czarna owca";"lager";4,8;12;"bottom";9,59
-"112";"Czarna Owca Polish Tank ñ But. 0,5l";"czarna owca";"ipa";5,5;14;"top";12,99
-"113";"Czarna Owca Wielki z≥ol ñ But. 0,5l";"czarna owca";"stout";8;18;"top";11,69
-"114";"CzeúÊ Brat BiorÍ w†ciemno 0,5l";"czeúÊ brat";"ipa";6;15;"top";10,98
-"115";"CzeúÊ Brat BiorÍ w†ciemno z†kawπ 0,5l";"czeúÊ brat";"ipa";6;15;"top";10,98
-"116";"CzeúÊ Brat JelczaÒskie ñ But. 0,5l";"czeúÊ brat";"pils";5,1;12;"bottom";8,49
-"117";"Cztery åciany Jama 0,5l puszka";"cztery úciany";"ipa";6;15;"top";11,99
-"118";"Cztery åciany Kamper 0,5l puszka";"cztery úciany";"ipa";6,2;15;"top";11,99
-"119";"Cztery åciany Loft 0,5l puszka";"cztery úciany";"pils";4,6;12;"bottom";11,69
+"111";"Czarna Owca Le≈ºak Kociewski ‚Äì But. 0,5l";"czarna owca";"lager";4,8;12;"bottom";9,59
+"112";"Czarna Owca Polish Tank ‚Äì But. 0,5l";"czarna owca";"ipa";5,5;14;"top";12,99
+"113";"Czarna Owca Wielki z≈Çol ‚Äì But. 0,5l";"czarna owca";"stout";8;18;"top";11,69
+"114";"Cze≈õƒá Brat Biorƒô w¬†ciemno 0,5l";"cze≈õƒá brat";"ipa";6;15;"top";10,98
+"115";"Cze≈õƒá Brat Biorƒô w¬†ciemno z¬†kawƒÖ 0,5l";"cze≈õƒá brat";"ipa";6;15;"top";10,98
+"116";"Cze≈õƒá Brat Jelcza≈Ñskie ‚Äì But. 0,5l";"cze≈õƒá brat";"pils";5,1;12;"bottom";8,49
+"117";"Cztery ≈öciany Jama 0,5l puszka";"cztery ≈õciany";"ipa";6;15;"top";11,99
+"118";"Cztery ≈öciany Kamper 0,5l puszka";"cztery ≈õciany";"ipa";6,2;15;"top";11,99
+"119";"Cztery ≈öciany Loft 0,5l puszka";"cztery ≈õciany";"pils";4,6;12;"bottom";11,69
 "120";"Deer Bear Barber Shop 0,5l puszka";"deer bear";"ipa";6;16;"top";13,99
 "121";"Deer Bear Bistro Cookie Stout 0,5l puszka";"deer bear";"stout";11;29;"top";18,49
 "122";"Deer Bear Call the Dragon 0,5l puszka";"deer bear";"ipa";6,5;18;"top";14,99
 "123";"Deer Bear Candy Shop Marshmallow 0,33l";"deer bear";"stout";9;25;"top";15,49
-"124";"Deer Bear Capitain ñ But. 0,5l";"deer bear";"ipa";5,2;13;"top";11,49
-"125";"Deer Bear HandyMan ñ But. 0,5l";"deer bear";"apa";3,8;10;"top";10,28
+"124";"Deer Bear Capitain ‚Äì But. 0,5l";"deer bear";"ipa";5,2;13;"top";11,49
+"125";"Deer Bear HandyMan ‚Äì But. 0,5l";"deer bear";"apa";3,8;10;"top";10,28
 "126";"Deer Bear Ice Swimmer 0,5l puszka";"deer bear";"ipa";7;18;"top";11,99
 "127";"Deer Bear Katsumoto 0,5l puszka";"deer bear";"ipa";7;18;"top";14,49
 "128";"Deer Bear Sakura 0,5l puszka";"deer bear";"ipa";6;16;"top";13,99
@@ -134,145 +134,145 @@
 "133";"Deer Bear Tres Por Tres Bourbon BA 0,33l";"deer bear";"stout";12;30;"top";19,99
 "134";"Doctor Brew Double IPA 0,5l";"doctor brew";"ipa";8;18;"top";9,99
 "135";"Doctor Brew Molly IPA 0,5l";"doctor brew";"ipa";7,1;16;"top";8,49
-"136";"Doctor Brew Summer Ale†0,5l";"doctor brew";"ale";4,2;11;"top";7,98
+"136";"Doctor Brew Summer Ale¬†0,5l";"doctor brew";"ale";4,2;11;"top";7,98
 "137";"Doctor Brew Vermont IPA 0,5l";"doctor brew";"ipa";5,8;14,5;"top";7,98
-"138";"Dziki WschÛd Czaj apacza- But. 0,5l";"dziki wschÛd";"apa";5;12;"top";9,99
-"139";"Dziki WschÛd Exa-Ma-Gozua 0,33l";"dziki wschÛd";"stout";12,54;28;"top";26,99
-"140";"Dziki WschÛd King Kong 0,5l";"dziki wschÛd";"stout";6;16;"top";9,99
-"141";"Dziki WschÛd Matho Wanathaka 0,33l";"dziki wschÛd";"stout";12,54;30;"top";24,99
-"142";"Dziki WschÛd New Wave 0,5l puszka";"dziki wschÛd";"ipa";6,6;16;"top";14,49
-"143";"Dziki WschÛd Samotny jeüdziec 0,5l";"dziki wschÛd";"pils";4,5;11;"bottom";8,99
-"144";"Dziki WschÛd Szalony koÒ 0,5l";"dziki wschÛd";"ale";4,5;12;"top";9,48
-"145";"Dziki WschÛd TaÒczπcy z†chmielami 0,5l";"dziki wschÛd";"ipa";6,3;15;"top";10,98
-"146";"Dziki WschÛd TJMMNW 0,5l";"dziki wschÛd";"pils";4,5;11;"bottom";8,99
-"147";"Dziki WschÛd Totem Yakima 0,5l puszka";"dziki wschÛd";"ipa";7;18;"top";11,69
-"148";"Dziki WschÛd Tytanowa czacha 0,5l";"dziki wschÛd";"ipa";8;18;"top";11,49
-"149";"Dziki WschÛd W†samo po≥udnie 0,5l";"dziki wschÛd";"lager";4;10;"bottom";8,49
-"150";"Dziki WschÛd Wild Wild East 0,375l";"dziki wschÛd";"ale";5;12;"top";34,99
-"151";"Dziki WschÛd Wild Wild East Earl Grey 0,375l";"dziki wschÛd";"ale";5;12;"top";33,39
-"152";"Fortunatus IV ñ butelka 0,33l";"fortuna";"ipa";8;18;"top";21,99
-"153";"Funky Fluid Catcher ñ But. 0,5l";"funky fluid";"stout";8,2;18;"top";11,49
+"138";"Dziki Wsch√≥d Czaj apacza- But. 0,5l";"dziki wsch√≥d";"apa";5;12;"top";9,99
+"139";"Dziki Wsch√≥d Exa-Ma-Gozua 0,33l";"dziki wsch√≥d";"stout";12,54;28;"top";26,99
+"140";"Dziki Wsch√≥d King Kong 0,5l";"dziki wsch√≥d";"stout";6;16;"top";9,99
+"141";"Dziki Wsch√≥d Matho Wanathaka 0,33l";"dziki wsch√≥d";"stout";12,54;30;"top";24,99
+"142";"Dziki Wsch√≥d New Wave 0,5l puszka";"dziki wsch√≥d";"ipa";6,6;16;"top";14,49
+"143";"Dziki Wsch√≥d Samotny je≈∫dziec 0,5l";"dziki wsch√≥d";"pils";4,5;11;"bottom";8,99
+"144";"Dziki Wsch√≥d Szalony ko≈Ñ 0,5l";"dziki wsch√≥d";"ale";4,5;12;"top";9,48
+"145";"Dziki Wsch√≥d Ta≈ÑczƒÖcy z¬†chmielami 0,5l";"dziki wsch√≥d";"ipa";6,3;15;"top";10,98
+"146";"Dziki Wsch√≥d TJMMNW 0,5l";"dziki wsch√≥d";"pils";4,5;11;"bottom";8,99
+"147";"Dziki Wsch√≥d Totem Yakima 0,5l puszka";"dziki wsch√≥d";"ipa";7;18;"top";11,69
+"148";"Dziki Wsch√≥d Tytanowa czacha 0,5l";"dziki wsch√≥d";"ipa";8;18;"top";11,49
+"149";"Dziki Wsch√≥d W¬†samo po≈Çudnie 0,5l";"dziki wsch√≥d";"lager";4;10;"bottom";8,49
+"150";"Dziki Wsch√≥d Wild Wild East 0,375l";"dziki wsch√≥d";"ale";5;12;"top";34,99
+"151";"Dziki Wsch√≥d Wild Wild East Earl Grey 0,375l";"dziki wsch√≥d";"ale";5;12;"top";33,39
+"152";"Fortunatus IV ‚Äì butelka 0,33l";"fortuna";"ipa";8;18;"top";21,99
+"153";"Funky Fluid Catcher ‚Äì But. 0,5l";"funky fluid";"stout";8,2;18;"top";11,49
 "154";"Funky Fluid Creamy 0,5l puszka";"funky fluid";"ipa";5,3;14;"top";14,49
 "155";"Funky Fluid Damn Good Coffee 0,5l puszka";"funky fluid";"ipa";8;19;"top";15,99
 "156";"Funky Fluid DDH Uncle from Warsaw 0,5l puszka";"funky fluid";"ipa";6,6;16;"top";14,49
-"157";"Funky Fluid German Pils ñ But. 0,5l";"funky fluid";"pils";5;12;"bottom";7,98
+"157";"Funky Fluid German Pils ‚Äì But. 0,5l";"funky fluid";"pils";5;12;"bottom";7,98
 "158";"Funky Fluid Goofy DDH 0,5l puszka";"funky fluid";"ipa";7,5;18;"top";11,99
-"159";"Funky Fluid It Was a†Good Day 0,5l";"funky fluid";"ipa";5,5;14;"top";11,99
-"160";"Funky Fluid Pumpkin Ale†with Maple Syrup";"funky fluid";"ale";9;21;"top";13,49
+"159";"Funky Fluid It Was a¬†Good Day 0,5l";"funky fluid";"ipa";5,5;14;"top";11,99
+"160";"Funky Fluid Pumpkin Ale¬†with Maple Syrup";"funky fluid";"ale";9;21;"top";13,49
 "161";"Funky Fluid Respect Your Elders 0,5l puszka";"funky fluid";"ipa";10;20;"top";15,99
 "162";"Funky Fluid Sandy- But. 0,5l";"funky fluid";"pszeniczne";4,8;12;"top";7,79
 "163";"Funky Fluid Sweet Scream 0,5l puszka";"funky fluid";"ipa";8,9;21;"top";15,99
 "164";"Funky Fluid Winter Cake 0,5l";"funky fluid";"stout";7,4;18;"top";11,49
-"165";"Geeky Freaky First Contact ñ But. 0,5l";"geeky freaky";"apa";4,8;12;"top";9,99
-"166";"Golem Bina ñ 500ml puszka";"golem";"stout";9;24;"top";18,99
+"165";"Geeky Freaky First Contact ‚Äì But. 0,5l";"geeky freaky";"apa";4,8;12;"top";9,99
+"166";"Golem Bina ‚Äì 500ml puszka";"golem";"stout";9;24;"top";18,99
 "167";"Golem Last Caress 0,5l puszka";"golem";"ipa";5,6;15;"top";14,19
 "168";"Golem Lock Up the Wolves 0,5l puszka";"golem";"ipa";5,5;16;"top";14,49
-"169";"Golem Love in a†Cold World 0,5l puszka";"golem";"ipa";6;15;"top";14,19
+"169";"Golem Love in a¬†Cold World 0,5l puszka";"golem";"ipa";6;15;"top";14,19
 "170";"Golem Still of the Night 0,5l puszka";"golem";"ipa";5,5;16;"top";14,49
 "171";"Golem Synthetic Love 0,5l puszka";"golem";"ipa";6;15;"top";14,19
 "172";"Golem Turbo Lover 0,5l puszka";"golem";"ipa";5,6;15;"top";14,19
 "173";"Grodziskie APA- But. 0,5l b/zwr";"grodziskie";"apa";5,2;12,5;"top";6,19
-"174";"Grodziskie Session Ale†0,5l b/zwr";"grodziskie";"ale";4,5;9,7;"top";6,19
+"174";"Grodziskie Session Ale¬†0,5l b/zwr";"grodziskie";"ale";4,5;9,7;"top";6,19
 "175";"Grodziskie White IPA 0,5l b/zwr";"grodziskie";"ipa";6;14;"top";6,19
 "176";"Gwarek Bihop Plazma #1 0,5l puszka";"gwarek";"ipa";7,8;18;"top";13,49
 "177";"Gwarek Bihop Plazma #2 0,5l puszka";"gwarek";"ipa";6,5;14;"top";12,69
 "178";"Gwarek Bihop Plazma #3 0,5l puszka";"gwarek";"ipa";7;16;"top";12,99
 "179";"Gwarek Bihop Plazma #4 0,5l puszka";"gwarek";"ipa";6,5;16;"top";12,99
 "180";"Gwarek Ciemna materia 0,5l puszka";"gwarek";"ipa";6,5;16;"top";12,99
-"181";"Gwarek Cyklotem ñ But. 0,5l";"gwarek";"stout";8,5;24;"top";15,99
-"182";"Gwarek Fruktuacja ñ 0,5l puszka";"gwarek";"ipa";6,8;18;"top";13,49
-"183";"Gwarek Hella 0,5l ñ puszka";"gwarek";"ipa";8,3;18;"top";13,99
+"181";"Gwarek Cyklotem ‚Äì But. 0,5l";"gwarek";"stout";8,5;24;"top";15,99
+"182";"Gwarek Fruktuacja ‚Äì 0,5l puszka";"gwarek";"ipa";6,8;18;"top";13,49
+"183";"Gwarek Hella 0,5l ‚Äì puszka";"gwarek";"ipa";8,3;18;"top";13,99
 "184";"Gwarek Kia Ora 0,5l puszka";"gwarek";"ipa";7,3;19;"top";13,99
-"185";"Gwarek Owsiane wzgÛrza 0,5l";"gwarek";"ipa";6;15,1;"top";10,98
-"186";"Gwarek Pale AleíOzoic 0,5l puszka";"gwarek";"ale";4,5;12;"top";11,49
+"185";"Gwarek Owsiane wzg√≥rza 0,5l";"gwarek";"ipa";6;15,1;"top";10,98
+"186";"Gwarek Pale Ale‚ÄôOzoic 0,5l puszka";"gwarek";"ale";4,5;12;"top";11,49
 "187";"Gwarek Przodowy-Hazy Apa-  But. 0,5l";"gwarek";"apa";5;13,5;"top";9,99
-"188";"Gwarek Stratus ñ But. 500 ml";"gwarek";"apa";5;13,5;"top";11,69
+"188";"Gwarek Stratus ‚Äì But. 500 ml";"gwarek";"apa";5;13,5;"top";11,69
 "189";"Gwarek Sztygar 500 ml puszka";"gwarek";"pils";4,5;11;"bottom";9,99
-"190";"Hamowniki Bawarskie ñ But. 0,45l";"hamowniki";"pszeniczne";4,8;12;"top";6,69
-"191";"Hamowniki Czeskie ñ But. 0,45l";"hamowniki";"pils";3,7;10;"bottom";5,99
-"192";"Harpagan APA ñ But. 500 ml";"harpagan";"apa";5,6;12;"top";7,98
+"190";"Hamowniki Bawarskie ‚Äì But. 0,45l";"hamowniki";"pszeniczne";4,8;12;"top";6,69
+"191";"Hamowniki Czeskie ‚Äì But. 0,45l";"hamowniki";"pils";3,7;10;"bottom";5,99
+"192";"Harpagan APA ‚Äì But. 500 ml";"harpagan";"apa";5,6;12;"top";7,98
 "193";"Harpagan Buzdygan turborozkoszy BA 0,3l";"harpagan";"stout";16;33;"top";29,99
-"194";"Harpagan Ekstaza Pramakaka ñ But. 0,5l";"harpagan";"ale";5,6;12;"top";9,99
+"194";"Harpagan Ekstaza Pramakaka ‚Äì But. 0,5l";"harpagan";"ale";5,6;12;"top";9,99
 "195";"Harpagan Guerilla Gila 0,5l puszka";"harpagan";"ipa";7,2;16,5;"top";14,99
-"196";"Harpagan Hefeweizen ñ But. 0,5l";"harpagan";"pszeniczne";5,6;12;"top";7,49
-"197";"Harpagan Hefeweizen Mango ñ But. 0,5l";"harpagan";"pszeniczne";5,6;12;"top";8,79
-"198";"Harpagan Imbryczek destrukcji ñ But. 0,5l";"harpagan";"pszeniczne";5,6;12;"top";10,98
+"196";"Harpagan Hefeweizen ‚Äì But. 0,5l";"harpagan";"pszeniczne";5,6;12;"top";7,49
+"197";"Harpagan Hefeweizen Mango ‚Äì But. 0,5l";"harpagan";"pszeniczne";5,6;12;"top";8,79
+"198";"Harpagan Imbryczek destrukcji ‚Äì But. 0,5l";"harpagan";"pszeniczne";5,6;12;"top";10,98
 "199";"Harpagan Kazuar chichotliwy 0,5l puszka";"harpagan";"ipa";6,3;16,5;"top";14,99
-"200";"Harpagan Korkotrampki pop≥ochu 0,5l";"harpagan";"pils";4,4;10,5;"bottom";9,99
+"200";"Harpagan Korkotrampki pop≈Çochu 0,5l";"harpagan";"pils";4,4;10,5;"bottom";9,99
 "201";"Harpagan Mizianie mamuta 0,5l";"harpagan";"ipa";5,6;15;"top";10,98
-"202";"Harpagan Pils ñ But. 500 ml";"harpagan";"pils";5,6;12;"bottom";7,79
+"202";"Harpagan Pils ‚Äì But. 500 ml";"harpagan";"pils";5,6;12;"bottom";7,79
 "203";"Harpagan Surdut splendoru Laphroaig";"harpagan";"ale";14;24;"top";19,99
 "204";"Harpagan Tamandua baletowa 0,5l puszka";"harpagan";"pszeniczne";5,6;14;"top";14
 "205";"Harpagan Tkacz przeznaczenia 0,33l";"harpagan";"stout";10,6;24,5;"top";15,99
 "206";"Harpagan Wilkor oporowy 0,5l puszka";"harpagan";"ipa";7,1;19,1;"top";10,69
-"207";"Harpagan Witbier ñ But. 500 ml";"harpagan";"pszeniczne";5,6;12;"top";8,49
-"208";"Hop Cone No. 1 ñ 0,5l puszka";"hop cone";"ipa";7,5;18;"top";13,49
-"209";"Hop Cone No. 2 ñ 0,5l puszka";"hop cone";"apa";4,8;12;"top";12,48
-"210";"Hopito Alien City ñ 0,5l puszka";"hopito";"ipa";5,8;15;"top";13,99
-"211";"Hopito Armagedon ñ 0,5l puszka";"hopito";"ipa";5,7;15;"top";13,49
-"212";"Hopito Badass ñ 0,44l puszka";"hopito";"stout";12;30;"top";44,99
-"213";"Hopito Butcher Pig ñ 0,5l puszka";"hopito";"ipa";7,6;19;"top";14,99
-"214";"Hopito Chillout ñ 0,5l puszka";"hopito";"ipa";6,1;16;"top";13,49
+"207";"Harpagan Witbier ‚Äì But. 500 ml";"harpagan";"pszeniczne";5,6;12;"top";8,49
+"208";"Hop Cone No. 1 ‚Äì 0,5l puszka";"hop cone";"ipa";7,5;18;"top";13,49
+"209";"Hop Cone No. 2 ‚Äì 0,5l puszka";"hop cone";"apa";4,8;12;"top";12,48
+"210";"Hopito Alien City ‚Äì 0,5l puszka";"hopito";"ipa";5,8;15;"top";13,99
+"211";"Hopito Armagedon ‚Äì 0,5l puszka";"hopito";"ipa";5,7;15;"top";13,49
+"212";"Hopito Badass ‚Äì 0,44l puszka";"hopito";"stout";12;30;"top";44,99
+"213";"Hopito Butcher Pig ‚Äì 0,5l puszka";"hopito";"ipa";7,6;19;"top";14,99
+"214";"Hopito Chillout ‚Äì 0,5l puszka";"hopito";"ipa";6,1;16;"top";13,49
 "215";"Hopito Doggy District 0,5l puszka";"hopito";"ipa";7,7;19;"top";13,49
 "216";"Hopito Ghost Train 0,5l puszka";"hopito";"ipa";8;19;"top";13,99
 "217";"Hopito Hyped Art 0,5l puszka";"hopito";"ipa";7,9;19;"top";13,99
 "218";"Hopito Hypnotize 0,5l puszka";"hopito";"ipa";6,1;16;"top";11,99
-"219";"Hopito Monster APA ñ But. 0,5l";"hopito";"apa";5;12;"top";10,98
+"219";"Hopito Monster APA ‚Äì But. 0,5l";"hopito";"apa";5;12;"top";10,98
 "220";"Hopito Monster Race 0,5l puszka";"hopito";"ipa";6;16;"top";13,49
 "221";"Hopito Neon World 0,5l puszka";"hopito";"ipa";6,2;16;"top";12,99
 "222";"Hopito Pizza Vibe 0,44l puszka";"hopito";"ipa";6,2;16;"top";11,99
-"223";"Hopito Rock the Hop ñ 0,5l puszka";"hopito";"ipa";4,8;12;"top";13,49
-"224";"Hopito Skulls ñ 500 ml puszka";"hopito";"ipa";4,8;12;"top";12,99
+"223";"Hopito Rock the Hop ‚Äì 0,5l puszka";"hopito";"ipa";4,8;12;"top";13,49
+"224";"Hopito Skulls ‚Äì 500 ml puszka";"hopito";"ipa";4,8;12;"top";12,99
 "225";"Hopito Street Party 0,44l puszka";"hopito";"ipa";6;15;"top";11,69
-"226";"Hopito Super Heroes ñ But. 0,5l";"hopito";"ipa";6;16;"top";10,98
-"227";"Hopito Wheat Club ñ But. 0,5l";"hopito";"pszeniczne";5;12;"top";10,98
+"226";"Hopito Super Heroes ‚Äì But. 0,5l";"hopito";"ipa";6;16;"top";10,98
+"227";"Hopito Wheat Club ‚Äì But. 0,5l";"hopito";"pszeniczne";5;12;"top";10,98
 "228";"Hopito Zombie Balls 0,5l puszka";"hopito";"ipa";6;16;"top";13,49
-"229";"Hoplala Darling, I†Love You-But. 0,5l";"hoplala";"ale";5,8;15;"top";8,99
-"230";"Hoplala Dzika lala ñ But. 500 ml";"hoplala";"ale";5,2;13;"top";10,49
-"231";"Hoplala Lady in Black ñ But. 0,5l";"hoplala";"stout";6,1;15;"top";8,99
+"229";"Hoplala Darling, I¬†Love You-But. 0,5l";"hoplala";"ale";5,8;15;"top";8,99
+"230";"Hoplala Dzika lala ‚Äì But. 500 ml";"hoplala";"ale";5,2;13;"top";10,49
+"231";"Hoplala Lady in Black ‚Äì But. 0,5l";"hoplala";"stout";6,1;15;"top";8,99
 "232";"Hoplala Perfekcyjna pani domu- But. 0,5l";"hoplala";"lager";5,3;13;"bottom";8,99
-"233";"Hoplala PiÍkna mπdra zdolna- But. 0,5l";"hoplala";"ale";5,1;12;"top";8,99
+"233";"Hoplala Piƒôkna mƒÖdra zdolna- But. 0,5l";"hoplala";"ale";5,1;12;"top";8,99
 "234";"Hoplala Porananas- But. 0,5l";"hoplala";"ipa";5,2;13;"top";8,99
-"235";"Hoplala PrzyjaüÒ czy†kochanie- But. 0,5l";"hoplala";"pszeniczne";3,9;10;"top";8,99
+"235";"Hoplala Przyja≈∫≈Ñ czy¬†kochanie- But. 0,5l";"hoplala";"pszeniczne";3,9;10;"top";8,99
 "236";"Hoplala Pszecudnej urody- But. 0,5l";"hoplala";"pszeniczne";3,9;10;"top";8,99
 "237";"Hoplala Pszekulturalna- But. 0,5l";"hoplala";"pszeniczne";5;12;"top";8,99
-"238";"Hoplala Wolna czy†zajÍta- But. 0,5l";"hoplala";"ipa";5,2;13;"top";8,99
-"239";"Jab≥onowo Na†miodzie gryczanym 0,5l";"jab≥onowo";"lager";5,2;16;"bottom";6,49
-"240";"Jab≥onowo Na†miodzie z†imbirem 0,5l";"jab≥onowo";"lager";5;15;"bottom";6,49
+"238";"Hoplala Wolna czy¬†zajƒôta- But. 0,5l";"hoplala";"ipa";5,2;13;"top";8,99
+"239";"Jab≈Çonowo Na¬†miodzie gryczanym 0,5l";"jab≈Çonowo";"lager";5,2;16;"bottom";6,49
+"240";"Jab≈Çonowo Na¬†miodzie z¬†imbirem 0,5l";"jab≈Çonowo";"lager";5;15;"bottom";6,49
 "241";"Jan Olbracht 2030 Hoppy American Wheat 0,5l";"jan olbracht";"pszeniczne";4,6;12;"top";12,48
-"242";"Jan Olbracht 2030 Juicy IPA ñ But. 0,5l";"jan olbracht";"ipa";6;15;"top";12,48
+"242";"Jan Olbracht 2030 Juicy IPA ‚Äì But. 0,5l";"jan olbracht";"ipa";6;15;"top";12,48
 "243";"Jan Olbracht 2030 TDH Hazy IPA 0,5l";"jan olbracht";"ipa";5,8;15;"top";12,99
-"244";"Jan Olbracht CÛra Koryntu 0,5l";"jan olbracht";"pszeniczne";7;16;"top";7,98
+"244";"Jan Olbracht C√≥ra Koryntu 0,5l";"jan olbracht";"pszeniczne";7;16;"top";7,98
 "245";"Jan Olbracht Korona Olbrachta 0,5l";"jan olbracht";"ale";5,6;12;"top";6,69
 "246";"Jan Olbracht Niskoalkoholowa IPA";"jan olbracht";"ipa";2;6;"top";8,99
-"247";"Jan Olbracht Opactwo krÛla 0,5l";"jan olbracht";"ipa";7;16;"top";8,49
-"248";"Jan Olbracht PomaraÒczarnia 0,5l";"jan olbracht";"pszeniczne";5,6;12;"top";7,49
-"249";"Jan Olbracht PowrÛt krÛla- But. 0,5l";"jan olbracht";"apa";5,6;12;"top";7,69
-"250";"Jan Olbracht åmietanka- But. 0,5l";"jan olbracht";"pszeniczne";5,6;12;"top";7,49
-"251";"Jan Olbracht Tajemnice krÛla 0,5l";"jan olbracht";"stout";5,6;12;"top";7,69
-"252";"Jurajskie Jasne Pe≥ne ñ But. 0,5l";"jurajskie";"lager";4,7;11,5;"bottom";5,29
-"253";"Jurajskie PomaraÒcza But. 0,5l";"jurajskie";"pszeniczne";4,7;16,5;"top";7,98
+"247";"Jan Olbracht Opactwo kr√≥la 0,5l";"jan olbracht";"ipa";7;16;"top";8,49
+"248";"Jan Olbracht Pomara≈Ñczarnia 0,5l";"jan olbracht";"pszeniczne";5,6;12;"top";7,49
+"249";"Jan Olbracht Powr√≥t kr√≥la- But. 0,5l";"jan olbracht";"apa";5,6;12;"top";7,69
+"250";"Jan Olbracht ≈ömietanka- But. 0,5l";"jan olbracht";"pszeniczne";5,6;12;"top";7,49
+"251";"Jan Olbracht Tajemnice kr√≥la 0,5l";"jan olbracht";"stout";5,6;12;"top";7,69
+"252";"Jurajskie Jasne Pe≈Çne ‚Äì But. 0,5l";"jurajskie";"lager";4,7;11,5;"bottom";5,29
+"253";"Jurajskie Pomara≈Ñcza But. 0,5l";"jurajskie";"pszeniczne";4,7;16,5;"top";7,98
 "254";"Jurajskie Pszeniczne Jasne 0,5l";"jurajskie";"pszeniczne";5,3;13,1;"top";7,49
-"255";"Jurajskie RÛøowa pantera 0,5l";"jurajskie";"ipa";7;18;"top";10,69
-"256";"Jurajskie z†Ostropestem- But. 0,5l";"jurajskie";"ipa";4;11,5;"top";7,49
+"255";"Jurajskie R√≥≈ºowa pantera 0,5l";"jurajskie";"ipa";7;18;"top";10,69
+"256";"Jurajskie z¬†Ostropestem- But. 0,5l";"jurajskie";"ipa";4;11,5;"top";7,49
 "257";"Komes Imperial IPA 0,5l B/Zwr";"komes";"ipa";7;18;"top";7,98
 "258";"Komes Russian Imperial Stout 0,5l b/zwr";"komes";"stout";12;25;"top";9,99
-"259";"Kormoran ALEñ Butelka. 0,5l";"kormoran";"ale";5,1;13;"top";6,49
+"259";"Kormoran ALE‚Äì Butelka. 0,5l";"kormoran";"ale";5,1;13;"top";6,49
 "260";"Kormoran American IPA- But. 0,5l";"kormoran";"ipa";6;16;"top";10,98
-"261";"Kormoran Jasny ó But. 0,5l";"kormoran";"pils";4,9;12,5;"bottom";6,49
-"262";"Kormoran Rewolucje WarmiÒskie- But. 0,5l";"kormoran";"lager";5,2;12,5;"bottom";6,49
-"263";"Kormoran åliwka w†Piwie- But. 0,5l";"kormoran";"lager";4,4;14,5;"bottom";6,99
-"264";"Kormoran Wiúnia w†Piwie- But. 0,5l";"kormoran";"lager";4,7;14,5;"bottom";6,99
-"265";"Krajan ñ Irlandzkie Ciemne- But. 0,5l";"krajan";"lager";6;14;"bottom";6,99
-"266";"Krajan ñ Irlandzkie Jasne- But. 0,5l";"krajan";"lager";6;14,1;"bottom";6,99
-"267";"Krajan ñ Irlandzkie Zielone- But. 0,5l";"krajan";"lager";5,5;12,1;"bottom";6,99
-"268";"Kulmbach Kapuziner Waisbier ñ But. 0,5l";"kulmbach";"pszeniczne";5,4;12,3;"top";7,49
-"269";"Kultowe Bez†glutenu- But. 0,5l";"kultowe";"lager";5,2;12;"bottom";4,99
-"270";"Lobster Rare Vision ñ But. 0,5l";"lobster";"ipa";4,9;12;"top";10,49
-"271";"LwÛwek Jankes Aleñ But. 0,5l";"lwÛwek";"ale";5;12,5;"top";8,19
+"261";"Kormoran Jasny ‚Äî But. 0,5l";"kormoran";"pils";4,9;12,5;"bottom";6,49
+"262";"Kormoran Rewolucje Warmi≈Ñskie- But. 0,5l";"kormoran";"lager";5,2;12,5;"bottom";6,49
+"263";"Kormoran ≈öliwka w¬†Piwie- But. 0,5l";"kormoran";"lager";4,4;14,5;"bottom";6,99
+"264";"Kormoran Wi≈õnia w¬†Piwie- But. 0,5l";"kormoran";"lager";4,7;14,5;"bottom";6,99
+"265";"Krajan ‚Äì Irlandzkie Ciemne- But. 0,5l";"krajan";"lager";6;14;"bottom";6,99
+"266";"Krajan ‚Äì Irlandzkie Jasne- But. 0,5l";"krajan";"lager";6;14,1;"bottom";6,99
+"267";"Krajan ‚Äì Irlandzkie Zielone- But. 0,5l";"krajan";"lager";5,5;12,1;"bottom";6,99
+"268";"Kulmbach Kapuziner Waisbier ‚Äì But. 0,5l";"kulmbach";"pszeniczne";5,4;12,3;"top";7,49
+"269";"Kultowe Bez¬†glutenu- But. 0,5l";"kultowe";"lager";5,2;12;"bottom";4,99
+"270";"Lobster Rare Vision ‚Äì But. 0,5l";"lobster";"ipa";4,9;12;"top";10,49
+"271";"Lw√≥wek Jankes Ale‚Äì But. 0,5l";"lw√≥wek";"ale";5;12,5;"top";8,19
 "272";"Madame Barrel Berta Pretzel 0,5l";"madame barrel";"ipa";7,1;16;"top";12,69
-"273";"Madame Barrel Jimi Whoop ñ But. 0,5l";"madame barrel";"ipa";7,7;16;"top";12,99
-"274";"Madame Barrel Lena Pearl ñ But. 0,5l";"madame barrel";"stout";9,5;27;"top";14,49
+"273";"Madame Barrel Jimi Whoop ‚Äì But. 0,5l";"madame barrel";"ipa";7,7;16;"top";12,99
+"274";"Madame Barrel Lena Pearl ‚Äì But. 0,5l";"madame barrel";"stout";9,5;27;"top";14,49
 "275";"Magic Road Delicacy 0,5l puszka";"magic road";"stout";7;20;"top";14,99
 "276";"Magic Road Distant Faces 0,5l puszka";"magic road";"ipa";7,7;18;"top";14,49
 "277";"Magic Road Dream On 0,5l puszka";"magic road";"ipa";7,8;18;"top";14,49
@@ -282,13 +282,13 @@
 "281";"Magic Road Perfect Breakfast 0,44l puszka";"magic road";"stout";11;27;"top";32,39
 "282";"Magic Road Point in Time 0,5l puszka";"magic road";"ipa";6,2;15;"top";13,49
 "283";"Magic Road Strong Beliefs 0,5l puszka";"magic road";"ipa";8,2;19;"top";14,99
-"284";"Magic Road We†Didnít Plan This 0,5l puszka";"magic road";"ipa";5,1;13,5;"top";13,99
-"285";"Maiselís Weisse Kristall ñ But. 0,5l";"maiselís";"ale";5;11,7;"top";7,98
-"286";"Majstersztyk W≥ÛczÍga ñ But. 0,5l";"majstersztyk";"ale";4;11;"top";10,98
+"284";"Magic Road We¬†Didn‚Äôt Plan This 0,5l puszka";"magic road";"ipa";5,1;13,5;"top";13,99
+"285";"Maisel‚Äôs Weisse Kristall ‚Äì But. 0,5l";"maisel‚Äôs";"ale";5;11,7;"top";7,98
+"286";"Majstersztyk W≈Ç√≥czƒôga ‚Äì But. 0,5l";"majstersztyk";"ale";4;11;"top";10,98
 "287";"Maltgarden Beyond the Meadow 0,5l puszka";"maltgarden";"ipa";7,7;18;"top";13,99
-"288";"Maltgarden Coffee to†Go Brazil Cerrada Natural";"maltgarden";"stout";5,9;18;"top";10,39
-"289";"Maltgarden Gate Nr†4 The Middle of Silence";"maltgarden";"stout";10,5;30;"top";45,99
-"290";"Maltgarden Gate Nr†5 Iceman Interview BBA 0,5l";"maltgarden";"stout";10,5;30;"top";45,99
+"288";"Maltgarden Coffee to¬†Go Brazil Cerrada Natural";"maltgarden";"stout";5,9;18;"top";10,39
+"289";"Maltgarden Gate Nr¬†4 The Middle of Silence";"maltgarden";"stout";10,5;30;"top";45,99
+"290";"Maltgarden Gate Nr¬†5 Iceman Interview BBA 0,5l";"maltgarden";"stout";10,5;30;"top";45,99
 "291";"Maltgarden Gate Nr3 Bourbon & Maple Syrup";"maltgarden";"stout";10,5;30;"top";12,48
 "292";"Maltgarden Hallertauer Pils 0,5l";"maltgarden";"pils";5;12;"bottom";10,69
 "293";"Maltgarden Historical Importance 0,5l";"maltgarden";"lager";5,7;13;"bottom";9,99
@@ -298,10 +298,10 @@
 "297";"Maltgarden Straight from the Farm 0,5l puszka";"maltgarden";"ipa";8,2;20;"top";14,49
 "298";"Maltgarden These Three Letters 0,5l puszka";"maltgarden";"ipa";6;16;"top";13,99
 "299";"Maltgarden Underneath the Tower 0,5l puszka";"maltgarden";"ipa";6;16;"top";13,49
-"300";"Maltgarden Where Do†We†Begin 0,5l puszka";"maltgarden";"ipa";4,5;12;"top";13,49
-"301";"Maryensztadt Bawarska pszenica ñ But. 0,5l";"maryensztadt";"pszeniczne";4,2;13;"top";6,49
+"300";"Maltgarden Where Do¬†We¬†Begin 0,5l puszka";"maltgarden";"ipa";4,5;12;"top";13,49
+"301";"Maryensztadt Bawarska pszenica ‚Äì But. 0,5l";"maryensztadt";"pszeniczne";4,2;13;"top";6,49
 "302";"Maryensztadt Bezglutenowe APA 0,5l";"bezglutenowe";"apa";4,1;11;"top";6,79
-"303";"Maryensztadt Cherry Flanders Red Ale†0,75l";"maryensztadt";"ale";5,6;13,2;"top";34,99
+"303";"Maryensztadt Cherry Flanders Red Ale¬†0,75l";"maryensztadt";"ale";5,6;13,2;"top";34,99
 "304";"Maryensztadt Darkness My Friend Oat Stout 0,44l";"maryensztadt";"stout";6;15;"top";8,99
 "305";"Maryensztadt Nevermind vol. 10 0,5l";"maryensztadt";"apa";4,9;13;"top";10,98
 "306";"Maryensztadt Nevermind vol. 11 0,44l puszka";"maryensztadt";"ipa";6,5;18;"top";13,99
@@ -310,25 +310,25 @@
 "309";"Maryensztadt Nevermind vol. 7 0,44l puszka";"maryensztadt";"ipa";7,8;18;"top";13,19
 "310";"Maryensztadt Niemiecki Pils 0,5l";"maryensztadt";"pils";4,5;13;"bottom";6,99
 "311";"Maryensztadt Nitro Generation #1 0,44l";"maryensztadt";"stout";4,2;11;"top";11,09
-"312";"Maryensztadt Projekt 30#5 ñ But. 0,33l (Kopia)";"maryensztadt";"stout";11,74;29,99;"top";39,99
+"312";"Maryensztadt Projekt 30#5 ‚Äì But. 0,33l (Kopia)";"maryensztadt";"stout";11,74;29,99;"top";39,99
 "313";"Maryensztadt RIS Heaven Hill BA Blueberry";"maryensztadt";"stout";12;29;"top";22,99
 "314";"Maryensztadt RIS Heaven Hill BA Coconut 0,44l";"maryensztadt";"stout";12;29;"top";32,39
 "315";"Maryensztadt Sourtime Mango & Peach 0,5l";"maryensztadt";"ipa";6,8;18;"top";10,39
 "316";"Maryensztadt Sourtime Mango IIPA 0,5l";"maryensztadt";"ipa";8,5;18;"top";10,39
 "317";"Maryensztadt The Roots vol. 2 0,5l puszka";"maryensztadt";"ipa";6;16;"top";9,99
-"318";"Mi≥os≥aw Chmielowy Lager 0,5l puszka";"fortuna";"lager";4,5;10;"bottom";4,99
-"319";"Mintaka Rigel ñ 500 ml puszka";"mintaka";"pszeniczne";5,4;14;"top";12,99
+"318";"Mi≈Ços≈Çaw Chmielowy Lager 0,5l puszka";"fortuna";"lager";4,5;10;"bottom";4,99
+"319";"Mintaka Rigel ‚Äì 500 ml puszka";"mintaka";"pszeniczne";5,4;14;"top";12,99
 "320";"Monkey Feels Like Heaven 0,44l puszka";"monkey";"ipa";5,5;14;"top";11,99
 "321";"Nepomucen Crazy Lines #03 0,5l puszka";"nepomucen";"ipa";7,8;22;"top";13,59
 "322";"Nepomucen Crazy Lines #07 0,5l puszka";"nepomucen";"ipa";8,5;19;"top";14,49
 "323";"Nepomucen Crazy Lines #10 0,5l puszka";"nepomucen";"ipa";8;18;"top";13,49
 "324";"Nepomucen Crazy Lines #14 0,5l puszka";"nepomucen";"ipa";7;16,5;"top";12,99
-"325";"Nepomucen Crazy Lines #15 Five oíClock 0,5l";"nepomucen";"ipa";7,5;16,5;"top";11,39
-"326";"Nepomucen Fam ñ 0,5l puszka";"nepomucen";"ipa";6;15,1;"top";12,99
+"325";"Nepomucen Crazy Lines #15 Five o‚ÄôClock 0,5l";"nepomucen";"ipa";7,5;16,5;"top";11,39
+"326";"Nepomucen Fam ‚Äì 0,5l puszka";"nepomucen";"ipa";6;15,1;"top";12,99
 "327";"Nepomucen Forest IPA 0,33l puszka";"nepomucen";"ipa";5,5;15,1;"top";7,49
 "328";"Nepomucen From the Source Bourbon & Rum";"nepomucen";"stout";10;35;"top";19,99
 "329";"Nepomucen Hall of Hops 0,5l puszka";"nepomucen";"ipa";5,5;14;"top";12,99
-"330";"Nepomucen Harce ñ 0,5l puszka";"nepomucen";"ipa";6;15,1;"top";12,99
+"330";"Nepomucen Harce ‚Äì 0,5l puszka";"nepomucen";"ipa";6;15,1;"top";12,99
 "331";"Nepomucen Idaho 7 0,5l puszka";"nepomucen";"ipa";7,8;19;"top";13,99
 "332";"Nepomucen Jean Michel 2 0,5l puszka";"nepomucen";"stout";8,5;19;"top";11,99
 "333";"Nepomucen Magnificient Three Shake It 0,5l puszka";"nepomucen";"ipa";8,2;19;"top";13,99
@@ -339,44 +339,44 @@
 "338";"Nepomucen Mark #4 0,5l puszka";"nepomucen";"stout";10;27,5;"top";21,99
 "339";"Nepomucen Meet Our Friends Funky Fluid 0,5l";"nepomucen";"ipa";10,5;26;"top";11,99
 "340";"Nepomucen Meet Our Friends Monsters 0,5l";"nepomucen";"ipa";6,4;16,5;"top";13,99
-"341";"Nepomucen Meet Our Places A†Good Thug 0,5l";"nepomucen";"pils";5,2;12,4;"bottom";8,49
+"341";"Nepomucen Meet Our Places A¬†Good Thug 0,5l";"nepomucen";"pils";5,2;12,4;"bottom";8,49
 "342";"Nepomucen Meet Our Places Multicultural";"nepomucen";"ipa";7;16,5;"top";12,99
 "343";"Nepomucen Meet Our Places Naked Foot 0,5l";"nepomucen";"ipa";6,9;15,1;"top";11,99
 "344";"Nepomucen Pollock 0,5l puszka";"nepomucen";"ipa";10;21;"top";12,99
 "345";"Nepomucen Sabro 0,5l puszka";"nepomucen";"ipa";7,8;19;"top";13,99
 "346";"Nepomucen Triple-Triple 0,5l puszka";"nepomucen";"ipa";8,5;21;"top";14,99
 "347";"Nepomucen Two-Headed Giant 0,5l puszka";"nepomucen";"ipa";9,5;23;"top";14,99
-"348";"Nepomucen Wood Pecker ñ But. 0,5l";"nepomucen";"ale";4,9;12;"top";8,49
-"349";"Nook Cinnamon Danish ñ 0,5l puszka";"nook";"stout";6;19;"top";11,99
-"350";"Nook DDH Desitka ñ But. 0,5l";"maryensztadt";"lager";4,4;10;"bottom";12,99
+"348";"Nepomucen Wood Pecker ‚Äì But. 0,5l";"nepomucen";"ale";4,9;12;"top";8,49
+"349";"Nook Cinnamon Danish ‚Äì 0,5l puszka";"nook";"stout";6;19;"top";11,99
+"350";"Nook DDH Desitka ‚Äì But. 0,5l";"maryensztadt";"lager";4,4;10;"bottom";12,99
 "351";"Palatum Black Eternity 0,5l puszka";"palatum";"stout";9,9;24;"top";15,99
 "352";"Palatum Imperial Primus 0,5l puszka";"palatum";"ipa";7,6;18;"top";13,99
 "353";"Palatum Miss Smoke 0,5l puszka";"palatum";"ipa";6,5;15,5;"top";12,48
-"354";"Palatum Sinus ñ 0,5l puszka";"palatum";"ipa";6,3;14,5;"top";12,99
+"354";"Palatum Sinus ‚Äì 0,5l puszka";"palatum";"ipa";6,3;14,5;"top";12,99
 "355";"Palatum Tryumf 0,5l puszka";"palatum";"ipa";6,6;15,5;"top";13,39
-"356";"Palatum Warsaw ñ 0,5l puszka";"palatum";"apa";5,2;12,5;"top";11,99
+"356";"Palatum Warsaw ‚Äì 0,5l puszka";"palatum";"apa";5,2;12,5;"top";11,99
 "357";"Palatum Xmas Stout 0,5l puszka";"palatum";"stout";6,5;16,6;"top";12,48
-"358";"Palhajs Niemd≥e Niefiltrowane-  But. 0,5l";"staropolski";"lager";4,7;10;"bottom";5,19
+"358";"Palhajs Niemd≈Çe Niefiltrowane-  But. 0,5l";"staropolski";"lager";4,7;10;"bottom";5,19
 "359";"Paulaner Weissbier Dunkel 0,5l";"paulaner";"pszeniczne";5,3;12,3;"top";6,99
-"360";"Perun Bia≥y duch ñ But. 0,5l";"perun";"ipa";7,8;18;"top";10,39
-"361";"Perun Czarny duch ñ But. 0,5l";"perun";"ale";7,5;18;"top";10,39
+"360";"Perun Bia≈Çy duch ‚Äì But. 0,5l";"perun";"ipa";7,8;18;"top";10,39
+"361";"Perun Czarny duch ‚Äì But. 0,5l";"perun";"ale";7,5;18;"top";10,39
 "362";"Perun Dziedzictwo Marynka- But. 0,5l";"perun";"ale";5,6;13;"top";8,49
 "363";"Perun Los Chmurnika Sencha Earl Grey";"perun";"ipa";6;15;"top";10,98
-"364";"Perun RarÛg guarana/yerba/herbata";"perun";"ipa";7;16;"top";9,99
-"365";"Perun RarÛg ze†úwierkiem 0,5l";"perun";"ipa";7;16;"top";9,99
-"366";"Perun StrzygoÒ- Pastry Sour- But. 0,5l";"perun";"stout";7,2;19;"top";12,29
-"367";"Perun Ziarno prawdy Grejpfrut pomaraÒcza 0,5l";"perun";"pszeniczne";4,8;12;"top";8,99
+"364";"Perun Rar√≥g guarana/yerba/herbata";"perun";"ipa";7;16;"top";9,99
+"365";"Perun Rar√≥g ze¬†≈õwierkiem 0,5l";"perun";"ipa";7;16;"top";9,99
+"366";"Perun Strzygo≈Ñ- Pastry Sour- But. 0,5l";"perun";"stout";7,2;19;"top";12,29
+"367";"Perun Ziarno prawdy Grejpfrut pomara≈Ñcza 0,5l";"perun";"pszeniczne";4,8;12;"top";8,99
 "368";"Perun Ziarno Prawdy Hefeweizen 0,5l";"perun";"pszeniczne";4,8;12;"top";8,99
-"369";"Perun Ømij American Red Ale†0,5l";"perun";"ale";4,8;13;"top";8,49
-"370";"Perun Ømij ze†smoczym owocem 0,5l";"perun";"ale";4,8;13;"top";8,99
-"371";"Pinta A†Ja Pale Ale†ñ but 500 ml";"pinta";"apa";5;12;"top";8,49
-"372";"Pinta Atak chmielu ñ But. 0,5l";"pinta";"ipa";6,1;15;"top";9,69
+"369";"Perun ≈ªmij American Red Ale¬†0,5l";"perun";"ale";4,8;13;"top";8,49
+"370";"Perun ≈ªmij ze¬†smoczym owocem 0,5l";"perun";"ale";4,8;13;"top";8,99
+"371";"Pinta A¬†Ja Pale Ale¬†‚Äì but 500 ml";"pinta";"apa";5;12;"top";8,49
+"372";"Pinta Atak chmielu ‚Äì But. 0,5l";"pinta";"ipa";6,1;15;"top";9,69
 "373";"Pinta Barrel Brewing Liberty 0,33l";"pinta";"stout";13;30;"top";35,99
 "374";"Pinta Barrel Brewing Synergy 0,33l";"pinta";"stout";13;30;"top";35,99
-"375";"Pinta Barrel Immensity ñ But. 0,33l";"pinta";"stout";13;35;"top";35,99
+"375";"Pinta Barrel Immensity ‚Äì But. 0,33l";"pinta";"stout";13;35;"top";35,99
 "376";"Pinta Bawarka-pszeniczne- But. 0,5l";"pinta";"pszeniczne";5,7;13;"top";7,49
-"377";"Pinta Farm to†Pint 0,5l puszka";"pinta";"ipa";8,1;20;"top";13,99
-"378";"Pinta Havana Stout ñ But. 0,5l";"pinta";"stout";6,9;16,5;"top";9,99
+"377";"Pinta Farm to¬†Pint 0,5l puszka";"pinta";"ipa";8,1;20;"top";13,99
+"378";"Pinta Havana Stout ‚Äì But. 0,5l";"pinta";"stout";6,9;16,5;"top";9,99
 "379";"Pinta Hazy Discovery Berlin 0,5l puszka";"pinta";"ipa";8,5;20;"top";13,99
 "380";"Pinta Hazy Discovery Copenhagen 0,5l puszka";"pinta";"ipa";6,5;16,5;"top";13,99
 "381";"Pinta Hazy Discovery Stavanger 0,5l puszka";"pinta";"ipa";10,2;25;"top";14,99
@@ -386,22 +386,22 @@
 "385";"Pinta Hop Detour 0,33l puszka";"pinta";"ipa";7,4;16;"top";18,99
 "386";"Pinta Hoppy Crew How Far is It? 0,5l puszka";"pinta";"ipa";8,5;18;"top";10,98
 "387";"Pinta Hoppy Crew Is It Enough? 0,5l puszka";"pinta";"ipa";7,1;16,5;"top";11,99
-"388";"Pinta Hoppy Crew Whatís So Funny? 0,5l puszka";"pinta";"ipa";8,1;20;"top";13,99
-"389";"Pinta Hoppy Crew Whatís Up? 0,5l puszka";"pinta";"ipa";8;20;"top";10,98
-"390";"Pinta Hoppy Crew Where to†Cut It? 0,5l puszka";"pinta";"ipa";7,2;16,5;"top";13,49
+"388";"Pinta Hoppy Crew What‚Äôs So Funny? 0,5l puszka";"pinta";"ipa";8,1;20;"top";13,99
+"389";"Pinta Hoppy Crew What‚Äôs Up? 0,5l puszka";"pinta";"ipa";8;20;"top";10,98
+"390";"Pinta Hoppy Crew Where to¬†Cut It? 0,5l puszka";"pinta";"ipa";7,2;16,5;"top";13,49
 "391";"Pinta Hoppy Crew Who Wants Some? 0,5l puszka";"pinta";"ipa";8,6;20;"top";11,99
-"392";"Pinta IIPPAA ñ Double Ipa- But. 0,5l";"pinta";"ipa";8,1;18;"top";9,99
+"392";"Pinta IIPPAA ‚Äì Double Ipa- But. 0,5l";"pinta";"ipa";8,1;18;"top";9,99
 "393";"Pinta Modern Drinking- But. 0,5l";"pinta";"ipa";6,5;15;"top";9,69
 "394";"Pinta Oto Mata IPA- But. 0,5l";"pinta";"ipa";5,8;14;"top";9,99
 "395";"Pinta Pierwsza pomoc- But. 0,5l";"pinta";"pils";4,1;10,5;"bottom";7,49
 "396";"Pinta Risfactor Coffee & Maple 0,33l";"pinta";"stout";10;30;"top";14,49
 "397";"Pinta Risfactor Vanilla & Coconut 0,33l";"pinta";"stout";10;30;"top";14,49
 "398";"Pinta Simply the Best 0,5l puszka";"pinta";"ipa";7,4;16,5;"top";13,99
-"399";"Pinta Wet Hop IPA ñ 0,5l puszka";"pinta";"ipa";6,8;16,5;"top";13,99
+"399";"Pinta Wet Hop IPA ‚Äì 0,5l puszka";"pinta";"ipa";6,8;16,5;"top";13,99
 "400";"Pivovsky Banach 0,5l puszka";"pivovsky";"ipa";5,3;14;"top";12,99
-"401";"Pivovsky Con ñ 0,5l puszka";"pivovsky";"ipa";5;14;"top";12,99
-"402";"Pivovsky Funk ñ 500 ml puszka";"pivovsky";"ipa";5,5;14;"top";12,99
-"403";"Pivovsky Sin ñ 500 ml puszka";"pivovsky";"ipa";5;14;"top";12,99
+"401";"Pivovsky Con ‚Äì 0,5l puszka";"pivovsky";"ipa";5;14;"top";12,99
+"402";"Pivovsky Funk ‚Äì 500 ml puszka";"pivovsky";"ipa";5,5;14;"top";12,99
+"403";"Pivovsky Sin ‚Äì 500 ml puszka";"pivovsky";"ipa";5;14;"top";12,99
 "404";"Pivovsky Tesla 0,5litra puszka";"pivovsky";"ipa";5,4;14;"top";12,99
 "405";"Piwne Podziemie Angelico Stout 0,5l";"piwne podziemie";"stout";7,2;19;"top";10,98
 "406";"Piwne Podziemie Biotransformers #3 0,5l";"piwne podziemie";"ipa";8,9;18;"top";14,39
@@ -422,33 +422,33 @@
 "421";"Piwne Podziemie Triple Vision 0,5l puszka";"piwne podziemie";"ipa";8,2;18;"top";13,49
 "422";"Piwne Podziemie Tropicalia 0,5l puszka";"piwne podziemie";"ipa";4,4;13;"top";10,98
 "423";"PRL Jasne niefiltrowane 0,5l puszka";"prl";"lager";4,7;10;"bottom";5,49
-"424";"Profesja Car ñ butelka 330 ml";"profesja";"stout";13;28;"top";13,99
-"425";"Profesja Cosplayer ñ But. 0,5l";"profesja";"ipa";4,7;11;"top";8,99
-"426";"Profesja Dobosz Pszenica ñ But. 0,5l";"profesja";"pszeniczne";4,1;10;"top";8,99
-"427";"Profesja Elektryk ñ butelka 0,5l";"profesja";"ipa";8,9;19;"top";11,99
-"428";"Profesja Hopbot ñ 0,5l puszka";"profesja";"apa";5,1;12;"top";11,39
-"429";"Profesja Kowboj ñ But. 500 ml";"profesja";"ipa";7;16;"top";10,49
-"430";"Profesja Kulturysta ñ But. 0,5l";"profesja";"ipa";9,5;19;"top";32,39
-"431";"Profesja Miksolog ñ But. 500ml";"profesja";"ipa";6;14;"top";9,99
-"432";"Profesja Pogromca SmokÛw- But. 0,5l";"profesja";"apa";5,1;12;"top";8,99
+"424";"Profesja Car ‚Äì butelka 330 ml";"profesja";"stout";13;28;"top";13,99
+"425";"Profesja Cosplayer ‚Äì But. 0,5l";"profesja";"ipa";4,7;11;"top";8,99
+"426";"Profesja Dobosz Pszenica ‚Äì But. 0,5l";"profesja";"pszeniczne";4,1;10;"top";8,99
+"427";"Profesja Elektryk ‚Äì butelka 0,5l";"profesja";"ipa";8,9;19;"top";11,99
+"428";"Profesja Hopbot ‚Äì 0,5l puszka";"profesja";"apa";5,1;12;"top";11,39
+"429";"Profesja Kowboj ‚Äì But. 500 ml";"profesja";"ipa";7;16;"top";10,49
+"430";"Profesja Kulturysta ‚Äì But. 0,5l";"profesja";"ipa";9,5;19;"top";32,39
+"431";"Profesja Miksolog ‚Äì But. 500ml";"profesja";"ipa";6;14;"top";9,99
+"432";"Profesja Pogromca Smok√≥w- But. 0,5l";"profesja";"apa";5,1;12;"top";8,99
 "433";"Profesja Przekupka- But. 0,5l";"profesja";"pszeniczne";6,1;15,5;"top";9,29
 "434";"Profesja Rockman- But. 0,5l";"profesja";"ipa";6,8;16;"top";9,99
-"435";"Profesja Szlachcic ñ But. 0,5l";"profesja";"ipa";4,9;10,5;"top";9,99
-"436";"Raciborskie Klasyczne ñ But. 0,5l";"browar zamkowy racibÛrz";"lager";5;12;"bottom";5,39
-"437";"Raciborskie Mocne ñ But. 0,5l";"browar zamkowy racibÛrz";"lager";6,4;15;"bottom";5,99
-"438";"ReCraft Banany na†rauszu ñ But. 0,5l";"recraft";"pszeniczne";4,6;12;"top";32,39
-"439";"ReCraft Black Curris ñ But. 0,33l";"recraft";"stout";8,5;25;"top";18,99
-"440";"ReCraft Cold Strata IPA ñ But. 0,5l";"recraft";"ipa";6,2;15;"top";9,99
+"435";"Profesja Szlachcic ‚Äì But. 0,5l";"profesja";"ipa";4,9;10,5;"top";9,99
+"436";"Raciborskie Klasyczne ‚Äì But. 0,5l";"browar zamkowy racib√≥rz";"lager";5;12;"bottom";5,39
+"437";"Raciborskie Mocne ‚Äì But. 0,5l";"browar zamkowy racib√≥rz";"lager";6,4;15;"bottom";5,99
+"438";"ReCraft Banany na¬†rauszu ‚Äì But. 0,5l";"recraft";"pszeniczne";4,6;12;"top";32,39
+"439";"ReCraft Black Curris ‚Äì But. 0,33l";"recraft";"stout";8,5;25;"top";18,99
+"440";"ReCraft Cold Strata IPA ‚Äì But. 0,5l";"recraft";"ipa";6,2;15;"top";9,99
 "441";"ReCraft Double Vision 0,5l puszka";"recraft";"ipa";7,2;18;"top";11,49
-"442";"ReCraft MC Farmer ñ But. 0,5l";"recraft";"ipa";6;15;"top";8,49
-"443";"ReCraft Milko≥ak ñ But. 0,5l";"recraft";"stout";5,2;16;"top";8,49
+"442";"ReCraft MC Farmer ‚Äì But. 0,5l";"recraft";"ipa";6;15;"top";8,49
+"443";"ReCraft Milko≈Çak ‚Äì But. 0,5l";"recraft";"stout";5,2;16;"top";8,49
 "444";"ReCraft Polish Hops Cold IPA 0,5l";"recraft";"ipa";6;15;"top";9,99
-"445";"ReCraft Polska Pszenica ñ But. 0,5l";"recraft";"pszeniczne";4,6;12;"top";8,49
-"446";"ReCraft Purista ñ But. 330 ml";"recraft";"stout";11;26;"top";18,99
+"445";"ReCraft Polska Pszenica ‚Äì But. 0,5l";"recraft";"pszeniczne";4,6;12;"top";8,49
+"446";"ReCraft Purista ‚Äì But. 330 ml";"recraft";"stout";11;26;"top";18,99
 "447";"ReCraft RIS 24 Bourbon & Rum BA 0,5l";"recraft";"stout";9,5;24;"top";18,99
-"448";"ReCraft Vermont IPA ñ But. 0,5l";"recraft";"ipa";5,9;15;"top";8,99
-"449";"ReCraft Wielka Szycha ñ But. 0,5l";"recraft";"pils";5;12;"bottom";7,98
-"450";"Sarabanda I†Want You Now 0,5l puszka";"sarabanda";"ipa";6,7;16;"top";13,99
+"448";"ReCraft Vermont IPA ‚Äì But. 0,5l";"recraft";"ipa";5,9;15;"top";8,99
+"449";"ReCraft Wielka Szycha ‚Äì But. 0,5l";"recraft";"pils";5;12;"bottom";7,98
+"450";"Sarabanda I¬†Want You Now 0,5l puszka";"sarabanda";"ipa";6,7;16;"top";13,99
 "451";"Sarabanda Pungently Tropical 0,5l puszka";"sarabanda";"ipa";6,7;16,5;"top";15,99
 "452";"SoliPiwko Hop Chapo 0,5l puszka";"solipiwko";"ipa";6,3;18;"top";13,99
 "453";"SoliPiwko Hop Costello 0,5l puszka";"solipiwko";"ipa";6,3;18;"top";14
@@ -457,68 +457,68 @@
 "456";"Staropolskie Dworskie 0,5l puszka";"staropolskie";"lager";5,7;12;"bottom";5,49
 "457";"Staropolskie Pszenne- But. 0,5l";"staropolski";"pszeniczne";5,2;12;"top";6,89
 "458";"Tenczynek Cesky Lezak- But. 0,5l";"tenczynek";"lager";5;11;"bottom";4,99
-"459";"Tenczynek Lager ñ But. 0,5l";"tenczynek";"lager";5;11,5;"bottom";4,99
-"460";"Tenczynek Pszeniczne ñ But. 0,5l";"tenczynek";"pszeniczne";5,2;12,5;"top";6,49
-"461";"Triochgornoje Premium Ale†ñ But. 0,45l";"zagraniczne";"ale";4,9;12;"top";6,49
+"459";"Tenczynek Lager ‚Äì But. 0,5l";"tenczynek";"lager";5;11,5;"bottom";4,99
+"460";"Tenczynek Pszeniczne ‚Äì But. 0,5l";"tenczynek";"pszeniczne";5,2;12,5;"top";6,49
+"461";"Triochgornoje Premium Ale¬†‚Äì But. 0,45l";"triochgornoje";"ale";4,9;12;"top";6,49
 "462";"Trzech Kumpli American Beauty 0,5l";"trzech kumpli";"ale";5;12,5;"top";10,69
 "463";"Trzech Kumpli Blackcyl Triple 0,5l";"trzech kumpli";"ipa";9;21;"top";16,69
 "464";"Trzech Kumpli Califia 0,5l puszka";"trzech kumpli";"ipa";7;16,5;"top";11,69
 "465";"Trzech Kumpli Idiota RIS 0,33l";"trzech kumpli";"stout";10,5;28;"top";16,29
-"466";"Trzech Kumpli Igrok ñ But. 0,33l";"trzech kumpli";"stout";10,5;28;"top";29,99
-"467";"Trzech Kumpli Knotty ñ But. 0,5l";"trzech kumpli";"lager";5,8;14;"bottom";10,98
-"468";"Trzech Kumpli Lager niemiecki ñ But. 0,5l";"trzech kumpli";"lager";5,3;12,5;"bottom";9,99
+"466";"Trzech Kumpli Igrok ‚Äì But. 0,33l";"trzech kumpli";"stout";10,5;28;"top";29,99
+"467";"Trzech Kumpli Knotty ‚Äì But. 0,5l";"trzech kumpli";"lager";5,8;14;"bottom";10,98
+"468";"Trzech Kumpli Lager niemiecki ‚Äì But. 0,5l";"trzech kumpli";"lager";5,3;12,5;"bottom";9,99
 "469";"Trzech Kumpli Misty 0,5l puszka";"trzech kumpli";"ipa";5,5;15;"top";11,49
 "470";"Trzech Kumpli Misty- But. 0,5l";"trzech kumpli";"ipa";5,5;15;"top";11,69
-"471";"Trzech Kumpli Nesta ñ But. 0,5l";"trzech kumpli";"stout";6;16,5;"top";9,99
+"471";"Trzech Kumpli Nesta ‚Äì But. 0,5l";"trzech kumpli";"stout";6;16,5;"top";9,99
 "472";"Trzech Kumpli Oaty- But. 0,5l";"trzech kumpli";"stout";5,5;15,5;"top";8,49
 "473";"Trzech Kumpli Pan Ipani 0,5l puszka";"trzech kumpli";"ipa";6;16,5;"top";11,99
 "474";"Trzech Kumpli Pan Ipani Triple 0,5l";"trzech kumpli";"ipa";8;21;"top";15,99
-"475";"Trzech Kumpli Pia ñ But. 0,5l";"trzech kumpli";"ipa";4,4;12,5;"top";10,98
+"475";"Trzech Kumpli Pia ‚Äì But. 0,5l";"trzech kumpli";"ipa";4,4;12,5;"top";10,98
 "476";"Trzech Kumpli Piece of Cake 0,5l";"trzech kumpli";"ipa";6;14;"top";9,99
 "477";"Trzech Kumpli Pils 0,5l puszka";"trzech kumpli";"pils";4,4;10,5;"bottom";8,99
 "478";"Trzech Kumpli Pils- But. 0,5l";"trzech kumpli";"pils";4,4;10,5;"bottom";8,99
 "479";"Trzech Kumpli Weizen- But. 0,5l";"trzech kumpli";"pszeniczne";5;12,5;"top";8,99
 "480";"Wielka Sowa Amper- But. 0,5l";"wielka sowa";"apa";4,9;12;"top";7,98
-"481";"Wielka Sowa Bateria ñ But. 0,5l";"wielka sowa";"lager";4,9;12;"bottom";7,98
+"481";"Wielka Sowa Bateria ‚Äì But. 0,5l";"wielka sowa";"lager";4,9;12;"bottom";7,98
 "482";"Wielka Sowa Ciemne- But. 0,5l";"wielka sowa";"lager";4,9;12;"bottom";6,99
-"483";"Wielka Sowa Faza ñ butelka 500 ml";"wielka sowa";"ipa";6,5;16;"top";7,98
-"484";"Wielka Sowa Jasne ñ But.  0,5l";"wielka sowa";"lager";4,9;12;"bottom";6,99
-"485";"Wielka Sowa Marcowe ñ But. 0,5l";"wielka sowa";"lager";6,3;13,8;"bottom";6,99
-"486";"Wielka Sowa Pils ñBut. 0,5l";"wielka sowa";"pils";4,5;11;"bottom";6,99
-"487";"Wielka Sowa PrzepiÍcie- But. 0,5l";"wielka sowa";"ale";3,8;10,2;"top";7,98
+"483";"Wielka Sowa Faza ‚Äì butelka 500 ml";"wielka sowa";"ipa";6,5;16;"top";7,98
+"484";"Wielka Sowa Jasne ‚Äì But.  0,5l";"wielka sowa";"lager";4,9;12;"bottom";6,99
+"485";"Wielka Sowa Marcowe ‚Äì But. 0,5l";"wielka sowa";"lager";6,3;13,8;"bottom";6,99
+"486";"Wielka Sowa Pils ‚ÄìBut. 0,5l";"wielka sowa";"pils";4,5;11;"bottom";6,99
+"487";"Wielka Sowa Przepiƒôcie- But. 0,5l";"wielka sowa";"ale";3,8;10,2;"top";7,98
 "488";"Wielka Sowa Pszeniczne mango/marakuja-But. 0,5l";"wielka sowa";"pszeniczne";4,9;12;"top";7,98
 "489";"Wielka Sowa Pszeniczne- But. 0,5l";"wielka sowa";"pszeniczne";4,9;12;"top";6,99
 "490";"Wielka Sowa Rezystor- But. 0,5l";"wielka sowa";"stout";4,5;16;"top";7,98
 "491";"Wielka Sowa Zimowe- But. 0,5l";"wielka sowa";"ale";4,5;16;"top";7,98
-"492";"Za†Miastem B≥ogi stan- But. 0,5l";"za miastem";"ipa";6;15;"top";10,49
-"493";"Za†Miastem Cicha noc- But. 0,5l";"za miastem";"stout";5,8;16;"top";9,99
-"494";"Za†Miastem Dobra Noc- But. 0,5l";"za miastem";"stout";5,8;15;"top";9,59
-"495";"Za†Miastem Dobrze jest ñ But. 0,5l";"za miastem";"ipa";5,6;14;"top";9,99
-"496";"Za†Miastem DzieÒ wolny- But. 0,5l";"za miastem";"pszeniczne";5,6;12,5;"top";7,98
-"497";"Za†Miastem LekkoúÊ Bytu ñ But. 0.5l";"za miastem";"pils";4,8;11,5;"bottom";8,49
-"498";"Za†Miastem Pe≥en luz- But. 0,5l";"za miastem";"ipa";6,5;16;"top";9,99
-"499";"Za†Miastem S≥oneczny dzieÒ ñ But. 0,5l";"za miastem";"pszeniczne";4,8;12,4;"top";9,48
-"500";"Za†Miastem Strefa relaksu 0,5l";"za†miastem";"stout";5,8;15;"top";9,99
-"501";"Za†Miastem Wieczorowπ porπ ñ But. 0,5l";"za miastem";"ipa";6;15;"top";9,99
-"502";"Zatecky Gus Svetly ñ But. 0,48l";"zagraniczne";"lager";4,6;11;"bottom";5,49
-"503";"Zestaw åw. Patryka ñ 6 piw/0,5l";"krajan";"pszeniczne";4,4;12,1;"top";41,94
+"492";"Za¬†Miastem B≈Çogi stan- But. 0,5l";"za miastem";"ipa";6;15;"top";10,49
+"493";"Za¬†Miastem Cicha noc- But. 0,5l";"za miastem";"stout";5,8;16;"top";9,99
+"494";"Za¬†Miastem Dobra Noc- But. 0,5l";"za miastem";"stout";5,8;15;"top";9,59
+"495";"Za¬†Miastem Dobrze jest ‚Äì But. 0,5l";"za miastem";"ipa";5,6;14;"top";9,99
+"496";"Za¬†Miastem Dzie≈Ñ wolny- But. 0,5l";"za miastem";"pszeniczne";5,6;12,5;"top";7,98
+"497";"Za¬†Miastem Lekko≈õƒá Bytu ‚Äì But. 0.5l";"za miastem";"pils";4,8;11,5;"bottom";8,49
+"498";"Za¬†Miastem Pe≈Çen luz- But. 0,5l";"za miastem";"ipa";6,5;16;"top";9,99
+"499";"Za¬†Miastem S≈Çoneczny dzie≈Ñ ‚Äì But. 0,5l";"za miastem";"pszeniczne";4,8;12,4;"top";9,48
+"500";"Za¬†Miastem Strefa relaksu 0,5l";"za¬†miastem";"stout";5,8;15;"top";9,99
+"501";"Za¬†Miastem WieczorowƒÖ porƒÖ ‚Äì But. 0,5l";"za miastem";"ipa";6;15;"top";9,99
+"502";"Zatecky Gus Svetly ‚Äì But. 0,48l";"zatecky";"lager";4,6;11;"bottom";5,49
+"503";"Zestaw ≈öw. Patryka ‚Äì 6 piw/0,5l";"krajan";"pszeniczne";4,4;12,1;"top";41,94
 "504";"Perun Jasny Grom- But. 0,5l";"perun";"apa";5,6;13;"top";8,99
 "505";"Nepomucen Milo Pszeniczne But. 0,5l";"nepomucen";"pszeniczne";4,9;12,4;"top";8,39
-"506";"Perun Noc Kupa≥y- But. 0,5l";"perun";"stout";6,4;15;"top";8,49
-"507";"Profesja Piwowar ñ Mango ñ  But. 0,5l";"profesja";"pszeniczne";4,9;11,9;"top";8,99
+"506";"Perun Noc Kupa≈Çy- But. 0,5l";"perun";"stout";6,4;15;"top";8,49
+"507";"Profesja Piwowar ‚Äì Mango ‚Äì  But. 0,5l";"profesja";"pszeniczne";4,9;11,9;"top";8,99
 "508";"Perun Profanum IPA- But. 0,5l";"perun";"ipa";5,6;13;"top";10,39
-"509";"Nepomucen Range ALE†0,5l";"nepomucen";"ale";5;12;"top";8,49
-"510";"Perun TopÛr Peruna ñ But. 0,5l";"perun";"ipa";8,1;19;"top";8,99
-"511";"Profesja Latarnik ñ But. 500 ml";"profesja";"stout";4,1;10,5;"top";11,99
+"509";"Nepomucen Range ALE¬†0,5l";"nepomucen";"ale";5;12;"top";8,49
+"510";"Perun Top√≥r Peruna ‚Äì But. 0,5l";"perun";"ipa";8,1;19;"top";8,99
+"511";"Profesja Latarnik ‚Äì But. 500 ml";"profesja";"stout";4,1;10,5;"top";11,99
 "512";"Maryensztadt Mysterious IPA 0,5l";"maryensztadt";"ipa";6,5;15;"top";10,39
 "513";"Maryensztadt Sourtime Agrest 0,5l";"maryensztadt";"ale";3,5;9;"top";8,99
 "514";"Profesja Alchemik- But. 500 ml";"profesja";"apa";6,8;15,9;"top";9,99
 "515";"Profesja Bard ALE- But. 0,5l";"profesja";"apa";5,9;13;"top";9,99
-"516";"Za†Miastem D≥ugi weekend 0,5l";"za miastem";"pils";5;12,1;"bottom";7,98
+"516";"Za¬†Miastem D≈Çugi weekend 0,5l";"za miastem";"pils";5;12,1;"bottom";7,98
 "517";"Birbant Hopsbant Fresh IPA 0,5l";"birbant";"ipa";6,7;16,5;"top";9,99
 "518";"Piwne Podziemie Juicilicious 0,5l";"piwne podziemie";"ipa";6;15;"top";10,49
 "519";"Birbant OZ Whisky BA 0,33l";"birbant";"stout";10,5;24,5;"top";15,49
-"520";"Salamander Pale Ale- But. 0,5l";"stu mostÛw";"ale";4,8;12,5;"top";9,99
+"520";"Salamander Pale Ale- But. 0,5l";"stu most√≥w";"ale";4,8;12,5;"top";9,99
 "521";"Birbant Klasyczny Weizen 0,5l";"birbant";"pszeniczne";5,1;12;"top";7,49
-"522";"Za†Miastem W≥asne sprawy But. 0,5l";"za miastem";"apa";6;13,6;"top";9,79
-"523";"WRCLW Pszeniczny ñ But. 0,5l";"stu mostÛw";"pszeniczne";4,5;11;"top";7,79
+"522";"Za¬†Miastem W≈Çasne sprawy But. 0,5l";"za miastem";"apa";6;13,6;"top";9,79
+"523";"WRCLW Pszeniczny ‚Äì But. 0,5l";"stu most√≥w";"pszeniczne";4,5;11;"top";7,79

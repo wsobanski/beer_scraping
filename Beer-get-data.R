@@ -31,7 +31,7 @@ get_extract = function(beer_link){
   beer_details = as.data.frame(beer_details)
   beer_extract = beer_details$X2[beer_details$X1 == "Ekstrakt"]
   beer_details
-  if (length(beer_exctract) == 0){
+  if (length(beer_extract) == 0){
     return(NA)
   } else {
     return(beer_extract)
@@ -61,7 +61,7 @@ return(beer_price)
 
 # Get name, link for product and brewery from website (for test it should download data from first two pages)
 set = data.frame()
-for(page_result in seq(from = 1, to = 2, by =1)){ #loop for given number of pages - loop exctracts informations from pages
+for(page_result in seq(from = 1, to = 2, by = 1)){ #loop for given number of pages - loop exctracts informations from pages
   link = paste0("https://ipiwo.pl/sklep/page/", page_result, "/") #create link to the given page number
 page = read_html(link)
 

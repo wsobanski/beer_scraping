@@ -2,7 +2,7 @@ library(dplyr)
 library(stringr)
 
 # reading data extracted by Beer-get-data script
-data =data.frame(read.csv("beers.csv", sep = ";",header = TRUE))
+data = data.frame(read.csv("beers.csv", sep = ";",header = TRUE))
 
 # replacing ',' in price column with '.' so it is possible to change its type to numeric
 data$price = stringr::str_replace_all(data$price, ",", ".")|>
@@ -12,7 +12,6 @@ data$type = as.factor(data$type)
 summary(data$type)
 
 # table of all unique types of beers
-
 
 all_types = data %>% group_by(type) %>% summarize(count=n())
 head(all_types)
@@ -31,11 +30,9 @@ for (i in 1:nrow(data)){
   else if (str_detect(data$type[i], regex("Pszeniczne", ignore_case = T)) ==TRUE){data$type_grouped[i] = "Pszeniczne"}
   else {data$type_grouped[i] = NA}
 }
+
 data$type = as.factor(data$type)
 data$type_grouped = as.factor(data$type_grouped)
-
-# clear non used value for iteration
-rm(i)
 
 # summary
 data %>% group_by(type_grouped) %>% summarize(count=n())
@@ -46,7 +43,7 @@ data$alc = stringr::str_replace_all(data$alc, "%", "")|>
   as.numeric()
 
 # corecting some observations and changing type of column to numeric
-data$exctract = stringr::str_replace_all(data$extract, "blg", "")
+
 data$exctract= as.numeric(data$exctract)
 
 # omit all observations with null values
@@ -54,7 +51,7 @@ data = na.omit(data)
 
 # rename misspelled variable name
 data = data |>
-  rename("blg" = exctract)
+  rename("blg" = extract)
 
 # creating new variable based on type_grouped:
 # this variable will assign fermentation type to every observation based on type of product.
@@ -112,10 +109,14 @@ data_clean$brewery[487] = "wielka sowa"
 data_clean$brewery[499] = "za miastem"
 data_clean$brewery[522] = "za miastem"
 
+data_clean$brewery = tolower(data_clean$brewery)
+data_clean$beer_type = tolower(data_clean$beer_type)
+
+# clear non used value for iteration
+rm(i)
+
+# save clean dataset as csv
+write.csv2(data_clean, file='beers_clean.csv', fileEncoding = 'UTF-8')
 
 
-
-
-#str_extract( , regex("([^ ]+)") )
-?regex
 
