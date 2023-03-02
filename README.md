@@ -1,12 +1,4 @@
----
-title: "Beer fermentation types classification"
-author: "Sobański W."
-output: 
-  html_document:
-    theme: lumen
-    toc: true
-    toc_float: true
----
+
 <style type="text/css">
   body{
   font-size: 14pt;
