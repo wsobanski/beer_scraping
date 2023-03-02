@@ -1,10 +1,10 @@
 
-<style type="text/css">
+<!-- <style type="text/css">
   body{
   font-size: 14pt;
 }
 </style>
-
+ -->
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
