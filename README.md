@@ -1,15 +1,3 @@
-
-<!-- <style type="text/css">
-  body{
-  font-size: 14pt;
-}
-</style>
- -->
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # **About the project**
 
 Main goal of this project is to collect data about beers from polish shop website www.ipiwo.pl.
